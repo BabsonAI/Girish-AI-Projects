@@ -1,1 +1,434 @@
-[]
+[
+  {
+    "title": "Investment Banking Recruiting Kickoff",
+    "startsAt": "2026-09-17T22:00:00.000Z",
+    "location": "Olin Hall 220",
+    "organization": "Graduate Finance Association",
+    "description": "Timeline, resume standards, and networking expectations for fall IB recruiting. Alumni from three bulge bracket banks attend.",
+    "categories": [
+      "Finance",
+      "Career"
+    ],
+    "tags": [
+      "investment banking",
+      "recruiting",
+      "networking"
+    ],
+    "freeFood": true,
+    "source": "engage"
+  },
+  {
+    "title": "Equity Research Stock Pitch Night",
+    "startsAt": "2026-09-19T21:30:00.000Z",
+    "location": "Cutler Center",
+    "organization": "Babson Investment Management Association",
+    "description": "Four student teams pitch long positions to a panel of practicing analysts. Open to all skill levels.",
+    "categories": [
+      "Finance"
+    ],
+    "tags": [
+      "equity research",
+      "stock pitch",
+      "valuation"
+    ],
+    "freeFood": true,
+    "source": "belong"
+  },
+  {
+    "title": "Private Equity Deal Breakdown",
+    "startsAt": "2026-09-21T21:00:00.000Z",
+    "location": "Weissman Foundry",
+    "organization": "Venture Capital & Private Equity Club",
+    "description": "Walk through a recent middle-market LBO with the deal team that executed it.",
+    "categories": [
+      "Finance"
+    ],
+    "tags": [
+      "private equity",
+      "lbo",
+      "deals"
+    ],
+    "freeFood": false,
+    "source": "engage"
+  },
+  {
+    "title": "Financial Modeling Bootcamp (Session 1 of 3)",
+    "startsAt": "2026-09-22T13:00:00.000Z",
+    "location": "Malloy 201",
+    "organization": "Graduate Finance Association",
+    "description": "Three-part Excel intensive covering three-statement models, DCF, and comps. Laptop required.",
+    "categories": [
+      "Finance",
+      "Workshop"
+    ],
+    "tags": [
+      "modeling",
+      "excel",
+      "valuation",
+      "dcf"
+    ],
+    "freeFood": true,
+    "source": "engage"
+  },
+  {
+    "title": "Women in Finance Mentorship Mixer",
+    "startsAt": "2026-09-24T22:30:00.000Z",
+    "location": "Reynolds Campus Center",
+    "organization": "Graduate Women in Finance",
+    "description": "Structured mentor matching with alumnae across banking, asset management, and corporate finance.",
+    "categories": [
+      "Finance",
+      "Networking"
+    ],
+    "tags": [
+      "women",
+      "mentorship",
+      "networking"
+    ],
+    "freeFood": true,
+    "source": "engage"
+  },
+  {
+    "title": "FinTech & AI in Credit Underwriting",
+    "startsAt": "2026-09-26T22:00:00.000Z",
+    "location": "Olin Hall 105",
+    "organization": "FinTech Club",
+    "description": "How lenders are deploying machine learning models in underwriting, and where regulators are pushing back.",
+    "categories": [
+      "Finance",
+      "Technology"
+    ],
+    "tags": [
+      "fintech",
+      "ai",
+      "machine learning",
+      "credit"
+    ],
+    "freeFood": false,
+    "source": "engage"
+  },
+  {
+    "title": "Real Estate Capital Markets Panel",
+    "startsAt": "2026-09-28T21:30:00.000Z",
+    "location": "Olin Hall 310",
+    "organization": "Real Estate Club",
+    "description": "Debt and equity sourcing in a higher-rate environment, with developers and REIT analysts.",
+    "categories": [
+      "Finance",
+      "Real Estate"
+    ],
+    "tags": [
+      "real estate",
+      "capital markets",
+      "reit"
+    ],
+    "freeFood": true,
+    "source": "engage"
+  },
+  {
+    "title": "Cutler Center Trading Floor Open House",
+    "startsAt": "2026-10-01T16:00:00.000Z",
+    "location": "Cutler Center",
+    "organization": "Babson Investment Management Association",
+    "description": "Drop-in Bloomberg terminal training and certification signup.",
+    "categories": [
+      "Finance",
+      "Workshop"
+    ],
+    "tags": [
+      "bloomberg",
+      "trading",
+      "terminal"
+    ],
+    "freeFood": true,
+    "source": "belong"
+  },
+  {
+    "title": "Personal Finance for Grad Students",
+    "startsAt": "2026-10-03T16:30:00.000Z",
+    "location": "Reynolds 108",
+    "organization": "Graduate Student Council",
+    "description": "Loan repayment, budgeting on a stipend, and negotiating your first post-MBA offer.",
+    "categories": [
+      "Finance",
+      "Wellness"
+    ],
+    "tags": [
+      "personal finance",
+      "loans",
+      "budgeting"
+    ],
+    "freeFood": true,
+    "source": "engage"
+  },
+  {
+    "title": "AI Build Night: Ship an Agent in 3 Hours",
+    "startsAt": "2026-09-18T23:00:00.000Z",
+    "location": "Weissman Foundry",
+    "organization": "Babson AI Society",
+    "description": "Bring a laptop and leave with a working AI agent. Mentors from the AI Fellowship on hand. No coding background required.",
+    "categories": [
+      "Technology",
+      "Workshop"
+    ],
+    "tags": [
+      "ai",
+      "agents",
+      "llm",
+      "hackathon",
+      "genai"
+    ],
+    "freeFood": true,
+    "source": "belong"
+  },
+  {
+    "title": "Machine Learning for Business Case Workshop",
+    "startsAt": "2026-09-20T22:00:00.000Z",
+    "location": "Malloy 105",
+    "organization": "Data Analytics Club",
+    "description": "Applied ML on a real retail dataset. Python basics helpful but not required.",
+    "categories": [
+      "Technology",
+      "Workshop"
+    ],
+    "tags": [
+      "machine learning",
+      "python",
+      "analytics",
+      "ai"
+    ],
+    "freeFood": false,
+    "source": "belong"
+  },
+  {
+    "title": "AI Product Teardown: What Shipped This Quarter",
+    "startsAt": "2026-09-23T23:00:00.000Z",
+    "location": "Olin Hall 118",
+    "organization": "Product Management Club",
+    "description": "PMs from three AI-native startups break down recent launches and the decisions behind them.",
+    "categories": [
+      "Technology"
+    ],
+    "tags": [
+      "product",
+      "ai",
+      "teardown"
+    ],
+    "freeFood": false,
+    "source": "engage"
+  },
+  {
+    "title": "Prompt Engineering Clinic",
+    "startsAt": "2026-09-27T21:00:00.000Z",
+    "location": "Horn Library 2nd Floor",
+    "organization": "Babson AI Society",
+    "description": "Bring a workflow you want to automate. Leave with prompts that work.",
+    "categories": [
+      "Technology",
+      "Workshop"
+    ],
+    "tags": [
+      "ai",
+      "prompt engineering",
+      "llm",
+      "genai"
+    ],
+    "freeFood": false,
+    "source": "belong"
+  },
+  {
+    "title": "Consulting Case Interview Bootcamp",
+    "startsAt": "2026-09-20T13:00:00.000Z",
+    "location": "Olin Hall 220",
+    "organization": "Babson Consulting Club",
+    "description": "Full-day casing intensive with partner-level interviewers and live feedback.",
+    "categories": [
+      "Consulting",
+      "Career"
+    ],
+    "tags": [
+      "case interview",
+      "recruiting",
+      "mbb"
+    ],
+    "freeFood": true,
+    "source": "engage"
+  },
+  {
+    "title": "Founders' Pitch Night",
+    "startsAt": "2026-09-25T22:00:00.000Z",
+    "location": "Butler Launch Pad",
+    "organization": "Entrepreneurship Club",
+    "description": "Eight student ventures pitch to a panel of angel investors. Audience vote decides the microgrant.",
+    "categories": [
+      "Entrepreneurship"
+    ],
+    "tags": [
+      "pitch",
+      "startups",
+      "venture"
+    ],
+    "freeFood": true,
+    "source": "belong"
+  },
+  {
+    "title": "Climate Tech Career Panel",
+    "startsAt": "2026-09-29T21:30:00.000Z",
+    "location": "Olin Hall 105",
+    "organization": "Energy & Environment Club",
+    "description": "Operators and investors on where climate tech hiring is actually growing.",
+    "categories": [
+      "Sustainability",
+      "Career"
+    ],
+    "tags": [
+      "climate",
+      "cleantech",
+      "esg"
+    ],
+    "freeFood": false,
+    "source": "belong"
+  },
+  {
+    "title": "Lunar New Year Gala",
+    "startsAt": "2026-09-30T23:00:00.000Z",
+    "location": "Knight Auditorium",
+    "organization": "Asia Business Club",
+    "description": "Performances, catered dinner, and the annual red envelope raffle. Tickets required.",
+    "categories": [
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "cultural",
+      "gala",
+      "celebration"
+    ],
+    "freeFood": true,
+    "source": "belong"
+  },
+  {
+    "title": "Africa Business Forum",
+    "startsAt": "2026-10-05T14:00:00.000Z",
+    "location": "Reynolds Campus Center",
+    "organization": "Africa Business Club",
+    "description": "Full-day forum on investment and entrepreneurship across African markets.",
+    "categories": [
+      "Cultural",
+      "Professional"
+    ],
+    "tags": [
+      "africa",
+      "emerging markets",
+      "forum"
+    ],
+    "freeFood": true,
+    "source": "belong"
+  },
+  {
+    "title": "Brand Strategy Workshop with a Boston Agency",
+    "startsAt": "2026-09-24T21:30:00.000Z",
+    "location": "Olin Hall 118",
+    "organization": "Babson Marketing Club",
+    "description": "Live brand positioning exercise run by a strategy director.",
+    "categories": [
+      "Marketing",
+      "Workshop"
+    ],
+    "tags": [
+      "brand",
+      "strategy",
+      "agency"
+    ],
+    "freeFood": false,
+    "source": "belong"
+  },
+  {
+    "title": "Digital Health Startup Showcase",
+    "startsAt": "2026-10-02T22:00:00.000Z",
+    "location": "Weissman Foundry",
+    "organization": "Healthcare Business Club",
+    "description": "Six Boston-area digital health founders demo and take questions.",
+    "categories": [
+      "Healthcare"
+    ],
+    "tags": [
+      "digital health",
+      "biotech",
+      "startups"
+    ],
+    "freeFood": true,
+    "source": "engage"
+  },
+  {
+    "title": "OPT & Visa Navigation Session",
+    "startsAt": "2026-09-21T16:00:00.000Z",
+    "location": "Reynolds 108",
+    "organization": "Graduate International Student Association",
+    "description": "ISSS advisors walk through OPT timelines and common filing mistakes.",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "international",
+      "opt",
+      "visa"
+    ],
+    "freeFood": true,
+    "source": "engage"
+  },
+  {
+    "title": "Wellness Week: Therapy Dogs & Free Coffee",
+    "startsAt": "2026-09-16T15:00:00.000Z",
+    "location": "Horn Library Lobby",
+    "organization": "Real Talk Mental Health Collective",
+    "description": "Drop in between classes. Therapy dogs, espresso bar, and stress kits.",
+    "categories": [
+      "Wellness",
+      "Social"
+    ],
+    "tags": [
+      "wellness",
+      "destress",
+      "free food"
+    ],
+    "freeFood": true,
+    "source": "belong"
+  },
+  {
+    "title": "Supply Chain Simulation Challenge",
+    "startsAt": "2026-10-04T21:00:00.000Z",
+    "location": "Malloy 201",
+    "organization": "Babson Analytics & Operations Club",
+    "description": "Team-based operations simulation with a prize for the lowest total landed cost.",
+    "categories": [
+      "Professional",
+      "Workshop"
+    ],
+    "tags": [
+      "operations",
+      "supply chain",
+      "simulation"
+    ],
+    "freeFood": false,
+    "source": "engage"
+  },
+  {
+    "title": "Robotics Open Build",
+    "startsAt": "2026-09-19T17:00:00.000Z",
+    "location": "Weissman Foundry",
+    "organization": "Babson Robotics & Automation Club",
+    "description": "Open lab session. Computer vision demo running on the new arm.",
+    "categories": [
+      "Technology"
+    ],
+    "tags": [
+      "robotics",
+      "automation",
+      "hardware",
+      "ai"
+    ],
+    "freeFood": false,
+    "source": "belong"
+  }
+]

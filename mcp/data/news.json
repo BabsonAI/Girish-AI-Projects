@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "title": "Club funding applications open for the fall cycle",
+    "publishedAt": "2026-09-13T13:00:00.000Z",
+    "summary": "Graduate Student Council opened the fall allocation cycle. Budget requests are due in three weeks.",
+    "tags": [
+      "funding",
+      "clubs",
+      "student government"
+    ],
+    "source": "belong"
+  },
+  {
+    "title": "AI Fellowship announces spring project cohort",
+    "publishedAt": "2026-09-10T13:00:00.000Z",
+    "summary": "The AI Fellowship named its next cohort of student-built agent projects.",
+    "tags": [
+      "ai",
+      "fellowship",
+      "technology"
+    ],
+    "source": "belong"
+  },
+  {
+    "title": "Cutler Center adds new Bloomberg terminals",
+    "publishedAt": "2026-09-06T13:00:00.000Z",
+    "summary": "Six additional terminals are live, and certification sessions now run twice weekly.",
+    "tags": [
+      "finance",
+      "cutler center",
+      "bloomberg"
+    ],
+    "source": "belong"
+  },
+  {
+    "title": "Club fair moves to the Reynolds quad",
+    "publishedAt": "2026-09-14T13:00:00.000Z",
+    "summary": "This term involvement fair relocates outdoors, with more than sixty organizations tabling.",
+    "tags": [
+      "clubs",
+      "events",
+      "fair"
+    ],
+    "source": "belong"
+  }
+]
