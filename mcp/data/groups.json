@@ -1,1 +1,476 @@
-[]
+[
+  {
+    "name": "Graduate Finance Association",
+    "categories": [
+      "Finance",
+      "Professional"
+    ],
+    "tags": [
+      "investment banking",
+      "private equity",
+      "valuation",
+      "capital markets"
+    ],
+    "mission": "Prepares graduate students for careers in investment banking, private equity, and asset management through treks, stock pitches, and alumni panels.",
+    "memberCount": 214,
+    "meets": "Tuesdays, 6:00 PM",
+    "source": "engage"
+  },
+  {
+    "name": "Babson Investment Management Association",
+    "categories": [
+      "Finance"
+    ],
+    "tags": [
+      "portfolio",
+      "equity research",
+      "trading",
+      "cutler center"
+    ],
+    "mission": "Student-run portfolio managing real capital out of the Cutler Center. Weekly stock pitches and equity research training.",
+    "memberCount": 168,
+    "meets": "Wednesdays, 5:30 PM",
+    "source": "belong"
+  },
+  {
+    "name": "FinTech Club",
+    "categories": [
+      "Finance",
+      "Technology"
+    ],
+    "tags": [
+      "fintech",
+      "payments",
+      "blockchain",
+      "crypto",
+      "ai"
+    ],
+    "mission": "Explores the intersection of financial services and emerging technology, including AI-driven underwriting, payments infrastructure, and digital assets.",
+    "memberCount": 132,
+    "meets": "Alternating Thursdays",
+    "source": "engage"
+  },
+  {
+    "name": "Babson AI Society",
+    "categories": [
+      "Technology"
+    ],
+    "tags": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "llm",
+      "genai",
+      "prompt engineering"
+    ],
+    "mission": "Hands-on workshops on large language models, agent building, and applied machine learning for business students. Runs the semester AI Build Night.",
+    "memberCount": 189,
+    "meets": "Mondays, 7:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Data Analytics Club",
+    "categories": [
+      "Technology",
+      "Professional"
+    ],
+    "tags": [
+      "data science",
+      "analytics",
+      "python",
+      "sql",
+      "machine learning",
+      "visualization"
+    ],
+    "mission": "Builds practical data fluency through Python and SQL bootcamps, Tableau labs, and applied machine learning case competitions.",
+    "memberCount": 156,
+    "meets": "Thursdays, 6:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Tech & Innovation Club",
+    "categories": [
+      "Technology"
+    ],
+    "tags": [
+      "product management",
+      "software",
+      "ai",
+      "startups",
+      "innovation"
+    ],
+    "mission": "Connects students to product management and technology careers. Hosts AI product teardowns and recruiting prep for tech firms.",
+    "memberCount": 203,
+    "meets": "Tuesdays, 7:00 PM",
+    "source": "engage"
+  },
+  {
+    "name": "Babson Consulting Club",
+    "categories": [
+      "Consulting",
+      "Professional"
+    ],
+    "tags": [
+      "case interview",
+      "strategy",
+      "mbb",
+      "recruiting"
+    ],
+    "mission": "Case interview preparation, casing circles, and firm-specific recruiting support for consulting careers.",
+    "memberCount": 241,
+    "meets": "Wednesdays, 6:30 PM",
+    "source": "engage"
+  },
+  {
+    "name": "Entrepreneurship Club",
+    "categories": [
+      "Entrepreneurship"
+    ],
+    "tags": [
+      "startups",
+      "venture",
+      "founders",
+      "pitch",
+      "butler launch pad"
+    ],
+    "mission": "The founders' community at Babson. Pitch nights, co-founder matching, and office hours with Butler Launch Pad mentors.",
+    "memberCount": 312,
+    "meets": "Mondays, 6:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Venture Capital & Private Equity Club",
+    "categories": [
+      "Finance",
+      "Entrepreneurship"
+    ],
+    "tags": [
+      "vc",
+      "private equity",
+      "venture capital",
+      "deal sourcing",
+      "term sheets"
+    ],
+    "mission": "Demystifies careers in VC and PE through deal breakdowns, term sheet workshops, and investor speaker series.",
+    "memberCount": 147,
+    "meets": "Thursdays, 5:00 PM",
+    "source": "engage"
+  },
+  {
+    "name": "Babson Marketing Club",
+    "categories": [
+      "Marketing",
+      "Professional"
+    ],
+    "tags": [
+      "brand",
+      "digital marketing",
+      "social media",
+      "consumer"
+    ],
+    "mission": "Brand strategy workshops, agency site visits, and a spring consumer marketing case competition.",
+    "memberCount": 178,
+    "meets": "Tuesdays, 5:30 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Real Estate Club",
+    "categories": [
+      "Finance",
+      "Real Estate"
+    ],
+    "tags": [
+      "real estate",
+      "development",
+      "reit",
+      "property"
+    ],
+    "mission": "Real estate finance and development careers, with property tours across Greater Boston and an annual REIT modeling workshop.",
+    "memberCount": 96,
+    "meets": "Alternating Wednesdays",
+    "source": "engage"
+  },
+  {
+    "name": "Healthcare Business Club",
+    "categories": [
+      "Healthcare",
+      "Professional"
+    ],
+    "tags": [
+      "biotech",
+      "pharma",
+      "digital health",
+      "medtech"
+    ],
+    "mission": "Careers in biotech, pharma, and digital health, with a focus on the Boston/Cambridge life sciences corridor.",
+    "memberCount": 118,
+    "meets": "Wednesdays, 6:00 PM",
+    "source": "engage"
+  },
+  {
+    "name": "Energy & Environment Club",
+    "categories": [
+      "Sustainability"
+    ],
+    "tags": [
+      "climate",
+      "energy",
+      "esg",
+      "sustainability",
+      "cleantech"
+    ],
+    "mission": "Climate tech, ESG investing, and sustainable operations. Partners with Net Impact on the annual sustainability summit.",
+    "memberCount": 104,
+    "meets": "Thursdays, 5:30 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Net Impact",
+    "categories": [
+      "Sustainability",
+      "Social Impact"
+    ],
+    "tags": [
+      "social impact",
+      "esg",
+      "nonprofit",
+      "impact investing"
+    ],
+    "mission": "Business as a force for social and environmental good. Runs impact consulting projects with local nonprofits.",
+    "memberCount": 89,
+    "meets": "Mondays, 5:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Women in Business",
+    "categories": [
+      "Identity",
+      "Professional"
+    ],
+    "tags": [
+      "women",
+      "leadership",
+      "mentorship",
+      "networking"
+    ],
+    "mission": "Leadership development, mentorship circles, and an annual conference supporting women across the Babson community.",
+    "memberCount": 267,
+    "meets": "Tuesdays, 6:30 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Graduate Women in Finance",
+    "categories": [
+      "Finance",
+      "Identity"
+    ],
+    "tags": [
+      "women",
+      "finance",
+      "mentorship",
+      "banking"
+    ],
+    "mission": "Supports women pursuing finance careers through mentorship pairings, technical prep, and recruiting navigation.",
+    "memberCount": 73,
+    "meets": "Alternating Mondays",
+    "source": "engage"
+  },
+  {
+    "name": "Latin American Business Association",
+    "categories": [
+      "Identity",
+      "Cultural"
+    ],
+    "tags": [
+      "latin america",
+      "cultural",
+      "spanish",
+      "portuguese",
+      "networking"
+    ],
+    "mission": "Celebrates Latin American culture and builds professional bridges between Babson and Latin American markets.",
+    "memberCount": 154,
+    "meets": "Fridays, 5:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Africa Business Club",
+    "categories": [
+      "Identity",
+      "Cultural"
+    ],
+    "tags": [
+      "africa",
+      "cultural",
+      "emerging markets",
+      "networking"
+    ],
+    "mission": "Showcases business opportunity across the African continent through the annual Africa Business Forum.",
+    "memberCount": 87,
+    "meets": "Alternating Fridays",
+    "source": "belong"
+  },
+  {
+    "name": "Asia Business Club",
+    "categories": [
+      "Identity",
+      "Cultural"
+    ],
+    "tags": [
+      "asia",
+      "cultural",
+      "emerging markets",
+      "lunar new year"
+    ],
+    "mission": "Connects students to Asian markets and culture, including the Lunar New Year gala and APAC career panels.",
+    "memberCount": 198,
+    "meets": "Thursdays, 6:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Graduate Student Council",
+    "categories": [
+      "Governance"
+    ],
+    "tags": [
+      "student government",
+      "advocacy",
+      "events"
+    ],
+    "mission": "The elected voice of graduate students. Allocates club funding and runs all-school social programming.",
+    "memberCount": 42,
+    "meets": "Mondays, 7:00 PM",
+    "source": "engage"
+  },
+  {
+    "name": "Babson Analytics & Operations Club",
+    "categories": [
+      "Technology",
+      "Professional"
+    ],
+    "tags": [
+      "operations",
+      "supply chain",
+      "analytics",
+      "process"
+    ],
+    "mission": "Operations strategy, supply chain analytics, and process improvement with plant tours and simulation workshops.",
+    "memberCount": 68,
+    "meets": "Alternating Tuesdays",
+    "source": "engage"
+  },
+  {
+    "name": "Product Management Club",
+    "categories": [
+      "Technology",
+      "Professional"
+    ],
+    "tags": [
+      "product",
+      "ux",
+      "ai",
+      "roadmap",
+      "tech recruiting"
+    ],
+    "mission": "Breaking into product management, including AI product strategy sessions and PM interview loops.",
+    "memberCount": 121,
+    "meets": "Wednesdays, 7:00 PM",
+    "source": "engage"
+  },
+  {
+    "name": "Retail & Luxury Goods Club",
+    "categories": [
+      "Marketing"
+    ],
+    "tags": [
+      "retail",
+      "luxury",
+      "consumer",
+      "merchandising"
+    ],
+    "mission": "Careers in retail, luxury, and consumer goods with NYC brand treks each fall.",
+    "memberCount": 64,
+    "meets": "Alternating Thursdays",
+    "source": "engage"
+  },
+  {
+    "name": "Family Enterprise Club",
+    "categories": [
+      "Entrepreneurship"
+    ],
+    "tags": [
+      "family business",
+      "succession",
+      "governance"
+    ],
+    "mission": "For students entering or leading family enterprises. Succession planning workshops and next-gen peer groups.",
+    "memberCount": 79,
+    "meets": "Fridays, 12:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Babson Sports Business Club",
+    "categories": [
+      "Professional"
+    ],
+    "tags": [
+      "sports",
+      "analytics",
+      "media",
+      "sponsorship"
+    ],
+    "mission": "Sports business careers across leagues, agencies, and analytics, with Boston franchise front-office visits.",
+    "memberCount": 133,
+    "meets": "Tuesdays, 8:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Graduate International Student Association",
+    "categories": [
+      "Identity",
+      "Cultural"
+    ],
+    "tags": [
+      "international",
+      "visa",
+      "opt",
+      "community"
+    ],
+    "mission": "Community and practical support for international graduate students, including OPT and visa navigation sessions.",
+    "memberCount": 226,
+    "meets": "Alternating Wednesdays",
+    "source": "engage"
+  },
+  {
+    "name": "Babson Robotics & Automation Club",
+    "categories": [
+      "Technology"
+    ],
+    "tags": [
+      "robotics",
+      "automation",
+      "hardware",
+      "ai",
+      "machine learning"
+    ],
+    "mission": "Hands-on robotics builds and automation applications for business, including computer vision and ML-driven control.",
+    "memberCount": 51,
+    "meets": "Saturdays, 1:00 PM",
+    "source": "belong"
+  },
+  {
+    "name": "Real Talk Mental Health Collective",
+    "categories": [
+      "Wellness"
+    ],
+    "tags": [
+      "wellness",
+      "mental health",
+      "peer support"
+    ],
+    "mission": "Peer-led conversations and wellness programming that reduce stigma around mental health on campus.",
+    "memberCount": 92,
+    "meets": "Alternating Mondays",
+    "source": "belong"
+  }
+]

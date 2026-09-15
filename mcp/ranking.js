@@ -106,8 +106,8 @@ export function scoreDoc(doc, q, kind) {
   if (score === 0) return null;
 
   if (kind === "event") {
-    const days = daysUntil(doc.startsAt);
-    score += Math.max(0, 3 - Math.abs(days) / 8);     // sooner wins ties
+    const days = daysUntil(doc);
+    if (days !== null) score += Math.max(0, 3 - Math.abs(days) / 8);  // sooner wins ties
     if (q.topics.includes("food") && doc.freeFood) { score += 6; why.push("free food"); }
   } else if (kind === "group") {
     score += Math.min(1.5, (doc.memberCount || 0) / 200);  // capped popularity prior
@@ -116,10 +116,24 @@ export function scoreDoc(doc, q, kind) {
   return { score: Math.round(score * 100) / 100, direct, matchedOn: [...new Set(why)].slice(0, 5) };
 }
 
-const daysUntil = (iso) => {
-  if (!iso) return 999;
-  return Math.round((new Date(iso) - new Date()) / 86400000);
+/* Tolerant event-date handling. Real feeds disagree on the field name
+   (startsAt / startDate / start / date) and format. An event whose date we
+   cannot read must NOT be silently dropped — that is what made search-events
+   return "no matches" while list-groups (which has no date gate) worked. */
+const eventTime = (doc) => {
+  const raw = doc?.startsAt ?? doc?.startDate ?? doc?.start ?? doc?.date ?? doc?.startsOn;
+  if (!raw) return null;
+  const t = Date.parse(raw);
+  return Number.isNaN(t) ? null : t;
 };
+
+// null = unknown date (keep the event, sort it after dated ones)
+const daysUntil = (doc) => {
+  const t = eventTime(doc);
+  return t === null ? null : Math.round((t - Date.now()) / 86400000);
+};
+
+const daysForSort = (doc) => daysUntil(doc) ?? 999;
 
 /* ------------------------------- the search ------------------------------- */
 
@@ -142,8 +156,17 @@ export function search(docs, query, kind, opts = {}) {
   let pool = docs;
   if (sources?.length) pool = pool.filter((d) => sources.includes(d.source));
   if (kind === "event") {
-    pool = pool.filter((d) => daysUntil(d.startsAt) >= 0);
-    if (withinDays != null) pool = pool.filter((d) => daysUntil(d.startsAt) <= withinDays);
+    // Only exclude events we can PROVE are in the past. Unknown/unparseable
+    // dates pass through instead of being silently dropped.
+    pool = pool.filter((d) => {
+      const n = daysUntil(d);
+      return n === null || n >= 0;
+    });
+    if (withinDays != null)
+      pool = pool.filter((d) => {
+        const n = daysUntil(d);
+        return n === null || n <= withinDays;
+      });
     if (freeFoodOnly) pool = pool.filter((d) => d.freeFood);
   }
 
@@ -157,7 +180,7 @@ export function search(docs, query, kind, opts = {}) {
       (a, b) =>
         Number(b.direct) - Number(a.direct) ||
         b.score - a.score ||
-        daysUntil(a.startsAt) - daysUntil(b.startsAt) ||
+        daysForSort(a) - daysForSort(b) ||
         (a.title || a.name).localeCompare(b.title || b.name)
     );
 
@@ -259,6 +282,13 @@ const header = (r, noun) =>
   `\nItems marked [related] matched a broader topic, not the student's words. When you state a` +
   ` count, count only the direct matches and mention related ones separately.\n`;
 
+const fmtEventDate = (e) => {
+  const t = eventTime(e);
+  return t === null
+    ? "Date TBD"
+    : new Date(t).toLocaleString("en-US", { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+};
+
 const renderEvents = (r) =>
   !r.totalMatches
     ? "No events matched. Suggest a broader topic rather than guessing."
@@ -266,7 +296,7 @@ const renderEvents = (r) =>
       r.results
         .map((e, i) =>
           `${i + 1}. ${e.title}${e.direct ? "" : " [related]"}\n` +
-          `   ${new Date(e.startsAt).toLocaleString("en-US", { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}` +
+          `   ${fmtEventDate(e)}` +
           ` · ${e.location || "TBD"}\n` +
           `   Host: ${e.organization || "—"}${e.freeFood ? " · FREE FOOD" : ""} · ${e.source}\n` +
           `   ${e.description || ""}`
