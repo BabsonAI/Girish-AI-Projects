@@ -1,476 +1,3371 @@
 [
   {
-    "name": "Graduate Finance Association",
+    "name": "Acceleration Club",
     "categories": [
-      "Finance",
-      "Professional"
+      "Entrepreneurship and Innovation"
     ],
     "tags": [
-      "investment banking",
-      "private equity",
-      "valuation",
-      "capital markets"
-    ],
-    "mission": "Prepares graduate students for careers in investment banking, private equity, and asset management through treks, stock pitches, and alumni panels.",
-    "memberCount": 214,
-    "meets": "Tuesdays, 6:00 PM",
-    "source": "engage"
-  },
-  {
-    "name": "Babson Investment Management Association",
-    "categories": [
-      "Finance"
-    ],
-    "tags": [
-      "portfolio",
-      "equity research",
-      "trading",
-      "cutler center"
-    ],
-    "mission": "Student-run portfolio managing real capital out of the Cutler Center. Weekly stock pitches and equity research training.",
-    "memberCount": 168,
-    "meets": "Wednesdays, 5:30 PM",
-    "source": "belong"
-  },
-  {
-    "name": "FinTech Club",
-    "categories": [
-      "Finance",
-      "Technology"
-    ],
-    "tags": [
-      "fintech",
-      "payments",
-      "blockchain",
-      "crypto",
-      "ai"
-    ],
-    "mission": "Explores the intersection of financial services and emerging technology, including AI-driven underwriting, payments infrastructure, and digital assets.",
-    "memberCount": 132,
-    "meets": "Alternating Thursdays",
-    "source": "engage"
-  },
-  {
-    "name": "Babson AI Society",
-    "categories": [
-      "Technology"
-    ],
-    "tags": [
-      "ai",
-      "artificial intelligence",
-      "machine learning",
-      "llm",
-      "genai",
-      "prompt engineering"
-    ],
-    "mission": "Hands-on workshops on large language models, agent building, and applied machine learning for business students. Runs the semester AI Build Night.",
-    "memberCount": 189,
-    "meets": "Mondays, 7:00 PM",
-    "source": "belong"
-  },
-  {
-    "name": "Data Analytics Club",
-    "categories": [
-      "Technology",
-      "Professional"
-    ],
-    "tags": [
-      "data science",
-      "analytics",
-      "python",
-      "sql",
-      "machine learning",
-      "visualization"
-    ],
-    "mission": "Builds practical data fluency through Python and SQL bootcamps, Tableau labs, and applied machine learning case competitions.",
-    "memberCount": 156,
-    "meets": "Thursdays, 6:00 PM",
-    "source": "belong"
-  },
-  {
-    "name": "Tech & Innovation Club",
-    "categories": [
-      "Technology"
-    ],
-    "tags": [
-      "product management",
-      "software",
-      "ai",
-      "startups",
+      "entrepreneurship",
+      "and",
       "innovation"
     ],
-    "mission": "Connects students to product management and technology careers. Hosts AI product teardowns and recruiting prep for tech firms.",
-    "memberCount": 203,
-    "meets": "Tuesdays, 7:00 PM",
-    "source": "engage"
+    "mission": "We are founders working on ventures while we study, and we run BAC for people doing the same. Most people arrive with an itch rather than a plan: an idea they are not sure is any good, a skill they want to point at something real, or just the sense that they want to build rather than only study. BAC is built for that starting point, and for every step after it.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BAC/"
   },
   {
-    "name": "Babson Consulting Club",
+    "name": "Adam Smith Society Initiative - Babson Chapter",
     "categories": [
-      "Consulting",
-      "Professional"
+      "Career and Industry"
     ],
     "tags": [
-      "case interview",
-      "strategy",
-      "mbb",
-      "recruiting"
+      "and",
+      "career",
+      "industry"
     ],
-    "mission": "Case interview preparation, casing circles, and firm-specific recruiting support for consulting careers.",
-    "memberCount": 241,
-    "meets": "Wednesdays, 6:30 PM",
-    "source": "engage"
+    "mission": "The Babson College Chapter of the Adam Smith Society aims to foster thoughtful and engaging discussions about capitalism, free markets, and the principles that guide a thriving economy. Our chapter\u00e2\u0080\u0099s goal is to cater specifically to Babson students, faculty, and alumni, while also building connections with other Adam Smith Society chapters at local colleges.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/SmithSoc/"
   },
   {
-    "name": "Entrepreneurship Club",
+    "name": "Alumni Engagement and Annual Giving",
     "categories": [
-      "Entrepreneurship"
+      "Entrepreneurship and Innovation"
     ],
     "tags": [
-      "startups",
-      "venture",
-      "founders",
-      "pitch",
-      "butler launch pad"
+      "entrepreneurship",
+      "and",
+      "innovation"
     ],
-    "mission": "The founders' community at Babson. Pitch nights, co-founder matching, and office hours with Butler Launch Pad mentors.",
-    "memberCount": 312,
-    "meets": "Mondays, 6:00 PM",
-    "source": "belong"
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/AEAG/"
   },
   {
-    "name": "Venture Capital & Private Equity Club",
+    "name": "Analytics Club",
     "categories": [
-      "Finance",
-      "Entrepreneurship"
+      "Career and Industry"
     ],
     "tags": [
-      "vc",
-      "private equity",
-      "venture capital",
-      "deal sourcing",
-      "term sheets"
+      "and",
+      "career",
+      "on probation",
+      "industry"
     ],
-    "mission": "Demystifies careers in VC and PE through deal breakdowns, term sheet workshops, and investor speaker series.",
-    "memberCount": 147,
-    "meets": "Thursdays, 5:00 PM",
-    "source": "engage"
+    "mission": "Babson Analytics Club's mission is to advance the education, careers, and community of Babson students interested in data, analytics, and machine learning, across industries and functions.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/analytics/"
   },
   {
-    "name": "Babson Marketing Club",
+    "name": "Arthur M. Blank Center for Entrepreneurship",
     "categories": [
-      "Marketing",
-      "Professional"
+      "Entrepreneurship and Innovation"
     ],
     "tags": [
-      "brand",
-      "digital marketing",
-      "social media",
-      "consumer"
+      "entrepreneurship",
+      "and",
+      "innovation"
     ],
-    "mission": "Brand strategy workshops, agency site visits, and a spring consumer marketing case competition.",
-    "memberCount": 178,
-    "meets": "Tuesdays, 5:30 PM",
-    "source": "belong"
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BLANK/"
   },
   {
-    "name": "Real Estate Club",
-    "categories": [
-      "Finance",
-      "Real Estate"
-    ],
-    "tags": [
-      "real estate",
-      "development",
-      "reit",
-      "property"
-    ],
-    "mission": "Real estate finance and development careers, with property tours across Greater Boston and an annual REIT modeling workshop.",
-    "memberCount": 96,
-    "meets": "Alternating Wednesdays",
-    "source": "engage"
+    "name": "Arthur M. Blank School for Entrepreneurial Leadership",
+    "categories": [],
+    "tags": [],
+    "mission": "The Blank School for Entrepreneurial Leadership combines Babson\u00e2\u0080\u0099s entrepreneurial centers and institutes to offer workshops, mentorship, funding, research, accelerators, and lifelong learning resources aimed at preparing individuals to lead change and create sustainable value.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BSEL/"
   },
   {
-    "name": "Healthcare Business Club",
+    "name": "Asian Business Initiative",
     "categories": [
-      "Healthcare",
-      "Professional"
+      "Culture and Community"
     ],
     "tags": [
-      "biotech",
-      "pharma",
-      "digital health",
-      "medtech"
+      "culture",
+      "and",
+      "community"
     ],
-    "mission": "Careers in biotech, pharma, and digital health, with a focus on the Boston/Cambridge life sciences corridor.",
-    "memberCount": 118,
-    "meets": "Wednesdays, 6:00 PM",
-    "source": "engage"
+    "mission": "The mission of the Asia Business Initiative is to build a strong, connected community of Babson students interested in Asian markets and culture, while expanding entrepreneurial and professional opportunities linked to Asia\u00e2\u0080\u0099s growing economy. Through cross-university collaboration, speaker events, cultural workshop and regional business activities, the initiative aims to position Babson as an ac",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/ABI/"
   },
   {
-    "name": "Energy & Environment Club",
+    "name": "AVP for Student Success",
     "categories": [
-      "Sustainability"
+      "Career and Industry",
+      "Entrepreneurship and Innovation"
     ],
     "tags": [
-      "climate",
-      "energy",
-      "esg",
-      "sustainability",
-      "cleantech"
+      "and",
+      "innovation",
+      "career",
+      "industry",
+      "entrepreneurship"
     ],
-    "mission": "Climate tech, ESG investing, and sustainable operations. Partners with Net Impact on the annual sustainability summit.",
-    "memberCount": 104,
-    "meets": "Thursdays, 5:30 PM",
-    "source": "belong"
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/AVP/"
   },
   {
-    "name": "Net Impact",
+    "name": "Babson Athletics",
     "categories": [
-      "Sustainability",
-      "Social Impact"
+      "College Department"
     ],
     "tags": [
-      "social impact",
-      "esg",
-      "nonprofit",
-      "impact investing"
+      "department",
+      "college"
     ],
-    "mission": "Business as a force for social and environmental good. Runs impact consulting projects with local nonprofits.",
-    "memberCount": 89,
-    "meets": "Mondays, 5:00 PM",
-    "source": "belong"
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/Ath/"
   },
   {
-    "name": "Women in Business",
+    "name": "Babson Board Fellows",
     "categories": [
-      "Identity",
-      "Professional"
+      "Career and Industry"
     ],
     "tags": [
-      "women",
-      "leadership",
-      "mentorship",
-      "networking"
+      "and",
+      "career",
+      "industry"
     ],
-    "mission": "Leadership development, mentorship circles, and an annual conference supporting women across the Babson community.",
-    "memberCount": 267,
-    "meets": "Tuesdays, 6:30 PM",
-    "source": "belong"
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BBF/"
   },
   {
-    "name": "Graduate Women in Finance",
+    "name": "Babson Fashion Initiative",
     "categories": [
-      "Finance",
-      "Identity"
+      "Career and Industry"
     ],
     "tags": [
-      "women",
-      "finance",
-      "mentorship",
-      "banking"
+      "and",
+      "career",
+      "industry"
     ],
-    "mission": "Supports women pursuing finance careers through mentorship pairings, technical prep, and recruiting navigation.",
-    "memberCount": 73,
-    "meets": "Alternating Mondays",
-    "source": "engage"
+    "mission": "The Babson Fashion Initiative aims to create a platform where graduate students explore the intersection of fashion, identity, culture, and entrepreneurship. The mission is to empower students to express individuality while connecting fashion with Babson\u00e2\u0080\u0099s entrepreneurial spirit and global community. While existing clubs may focus on sustainability or women in business, this initiative different",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BFI/"
   },
   {
-    "name": "Latin American Business Association",
-    "categories": [
-      "Identity",
-      "Cultural"
-    ],
-    "tags": [
-      "latin america",
-      "cultural",
-      "spanish",
-      "portuguese",
-      "networking"
-    ],
-    "mission": "Celebrates Latin American culture and builds professional bridges between Babson and Latin American markets.",
-    "memberCount": 154,
-    "meets": "Fridays, 5:00 PM",
-    "source": "belong"
+    "name": "Babson Miami",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/MIA/"
   },
   {
-    "name": "Africa Business Club",
+    "name": "Babson Public Speaking and Negotiation Initiative",
     "categories": [
-      "Identity",
-      "Cultural"
+      "Career and Industry"
     ],
     "tags": [
-      "africa",
-      "cultural",
-      "emerging markets",
-      "networking"
+      "and",
+      "career",
+      "industry"
     ],
-    "mission": "Showcases business opportunity across the African continent through the annual Africa Business Forum.",
-    "memberCount": 87,
-    "meets": "Alternating Fridays",
-    "source": "belong"
+    "mission": "The best business leaders in the world share one thing: they articulate a vision, negotiate an outcome, and bring people with them. The Oratory & Negotiation Society exists to build that leader at Babson. We are a peer-driven center of excellence where students develop the confidence to speak, the discipline to structure their thinking, the poise to lead, and the strategy to negotiate so that when",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BPSN/"
   },
   {
-    "name": "Asia Business Club",
+    "name": "Babson Rotaract Initiative",
     "categories": [
-      "Identity",
-      "Cultural"
+      "Entrepreneurship and Innovation"
     ],
     "tags": [
-      "asia",
-      "cultural",
-      "emerging markets",
-      "lunar new year"
+      "entrepreneurship",
+      "and",
+      "innovation"
     ],
-    "mission": "Connects students to Asian markets and culture, including the Lunar New Year gala and APAC career panels.",
-    "memberCount": 198,
-    "meets": "Thursdays, 6:00 PM",
-    "source": "belong"
+    "mission": "The mission of the Babson Rotaract Club is to unite undergraduate and graduate students as entrepreneurial\nleaders who transform service, fellowship, and innovative thinking into meaningful and lasting impact.\nGuided by Rotary\u00e2\u0080\u0099s commitment to service, integrity, goodwill, understanding, and peace, and inspired by Babson College\u00e2\u0080\u0099s mission to prepare entrepreneurial leaders who create, grow, and",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BRI/"
+  },
+  {
+    "name": "BabsonARTS",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "BabsonARTS' diverse programming includes theater, dance, music, film, literary and visual arts to expand perspectives, promote empathy, share the endless opportunities for students in the arts and entertainment industry, and to infuse creative thinking into the entrepreneurial mindset. A big part of our mission is to support the creative and performing experiences of our many talented students and",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/ARTS/"
+  },
+  {
+    "name": "Black Graduate Club",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "community"
+    ],
+    "mission": "The mission of the Babson Black Graduate club is to foster community, promote black excellence, and provide networking opportunities.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BBGC/"
+  },
+  {
+    "name": "Consulting Club",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "Babson Consulting Club's mission is to offer graduate students exclusive opportunities for career exploration and growth in the consulting industry. The club organizes various programs to support graduate students in\ntheir pursuit of consulting careers. These programs include networking events, consulting panels, interview workshops, and case competitions, all geared towards enhancing their job se",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BCC/"
+  },
+  {
+    "name": "Dean of Campus Life",
+    "categories": [
+      "Career and Industry",
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "and",
+      "innovation",
+      "career",
+      "industry",
+      "entrepreneurship"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/DCL/"
+  },
+  {
+    "name": "Design Thinking Club",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "The Babson Design Thinking Club is committed to fostering a dynamic environment where students passionate about design thinking can develop their creative problem-solving skills. Our aim is to explore the expansive world of design innovation, providing enriching opportunities for students eager to apply design thinking principles across various domains.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/DTC/"
+  },
+  {
+    "name": "Entrepreneurship Through Acquisition Club",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "on probation",
+      "innovation"
+    ],
+    "mission": "Entrepreneurship Through Acquisition Club's mission is to facilitate access to the Entrepreneurship Through Acquisition model by providing Babson students with unique opportunities to engage and learn.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/ETA/"
+  },
+  {
+    "name": "Family Business Club",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "Babson Family Business Club's mission is to empower and support family enterprises by fostering a dynamic community of entrepreneurs, leaders, and aspiring successors. We strive to provide valuable insights, mentorship, and networking opportunities through engaging guest speakers, hands-on workshops, and experiencesharing sessions. Our goal is to help members sustain and grow their family legacies",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BFBC/"
+  },
+  {
+    "name": "Food and Agriculture Technology Club",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "Babson Food and Agriculture Technology Club's mission is to inspire innovation and collaboration in the food industry. Whether you're a food entrepreneur, a food lover, or simply curious, this group is for you. Join us to connect, learn, and create new ventures that will shape the future of food and agriculture.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BFAT/"
+  },
+  {
+    "name": "Frank & Eileen\u00e2\u0084\u00a2 Center for Women's Entrepreneurial Leadership (F&E CWEL)",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/CWEL/"
+  },
+  {
+    "name": "Glavin Office of International Education",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GLAVIN/"
+  },
+  {
+    "name": "Global Entrepreneurial Leadership Forum",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "The Global Entrepreneurial Leadership (GEL) Forum at Babson is the flagship student-led event at the FW Olin Graduate School of Business. The GEL Forum brings leaders and innovators together to examine and collaboratively address entrepreneurial challenges across various global contexts. Attendees immerse themselves in interactive sessions while learning from and networking with industry experts a",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GEL/"
+  },
+  {
+    "name": "Global Manufacturing Initiative",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "The mission of the New England Manufacturing Initiative is to connect Babson graduate students with the people, companies, and technologies shaping the future of manufacturing around the world.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GMI/"
+  },
+  {
+    "name": "Graduate Academic Services",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "The Office of Graduate Academic Services supports graduate students to achieve their academic and personal goals by providing students individualized academic advisory support. We take a holistic, student-centered approach to academic advising that provides support and guidance during a student\u00e2\u0080\u0099s entire course of study. Drawing from various advising methodologies the advisor seeks to help studen",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GAS/"
+  },
+  {
+    "name": "Graduate Admissions",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GradAdm/"
+  },
+  {
+    "name": "Graduate Associate Deans Office",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GradDeans/"
+  },
+  {
+    "name": "Graduate Center for Career Development",
+    "categories": [],
+    "tags": [],
+    "mission": "Babson College\u00e2\u0080\u0099s Graduate Center for Career Development (Grad CCD) provides career services that help you pursue your passions and fulfill your purpose. From the moment you\u00e2\u0080\u0099re accepted, to after graduation, you have access to a myriad of resources, dedicated advisors, and a network of support that spans the world.\n\nVisit our Graduate Virtual Career Center to make appointments with our Career A",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GCCD/"
+  },
+  {
+    "name": "Graduate Christian Fellowship",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "community"
+    ],
+    "mission": "Babson Graduate Christian Fellowship's mission is to help disciple Christians at Babson who are seeking to follow Jesus and live out their faith in business and entrepreneurship. Join us as we gather to pray, encourage one another, and learn how we can be salt and light at Babson College (Matthew 5:13-16).",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BGCF/"
+  },
+  {
+    "name": "Graduate European Club",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "community"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GEC/"
+  },
+  {
+    "name": "Graduate Finance Club",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "Graduate Finance Club's mission is to  enhance financial expertise and skills for all students at Babson who will be the world's future entrepreneurial leaders. Our dream is for every Babson graduate to be fluent in finance and ready to work on day one after graduation.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BGFC/"
+  },
+  {
+    "name": "Graduate Golf Club",
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "mission": "Babson Graduate Golf Club's mission is to is committed to providing a friendly and welcoming opportunity for Babson Graduate students to play golf, network, and socialize. The Club is committed to educating tomorrow's business leaders through the pursuit of golf excellence. Membership is open to FW Olin graduate students of all experience and skill levels.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/golf/"
+  },
+  {
+    "name": "Graduate Partners Club",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "on probation",
+      "community"
+    ],
+    "mission": "At Babson, we recognize that your significant other and family play an important role in your life as a graduate student. Babson Graduate Partners\u00e2\u0080\u0099 Club \u00e2\u0080\u0094 a group run by current graduate students and their partners \u00e2\u0080\u0094 gives you and your family access to social, cultural, and educational activities that not only enrich your graduate experience but make your transition to Babson easy (and prett",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BGPC/"
+  },
+  {
+    "name": "Graduate PE/VC Club",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "Babson Graduate PE/VC Club's mission is to is dedicated to fostering a deep understanding of private equity and venture capital among graduate students. The club\u00e2\u0080\u0099s mission is to create an engaged and collaborative community that connects Babson students with industry professionals, educational opportunities, and career resources in private equity and venture capital.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/PEVC/"
+  },
+  {
+    "name": "Graduate Real Estate Club",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "Babson Graduate Real Estate Club's mission is to bring together the Babson community to share, explore, learn, and connect around a shared passion for the real estate industry.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BGREC/"
+  },
+  {
+    "name": "Graduate Soccer Club",
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "mission": "Babson Graduate Soccer Club believes that by playing soccer, the students will generate a great companionship with fellow students, a strong sense of team spirit, and a better quality of extracurricular activities. All graduate students are welcome to join the club and will have an opportunity to play in training, friendly matches, league games, and MBA cups.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/soccer/"
   },
   {
     "name": "Graduate Student Council",
     "categories": [
-      "Governance"
+      "Culture and Community"
     ],
     "tags": [
-      "student government",
-      "advocacy",
-      "events"
+      "culture",
+      "and",
+      "community"
     ],
-    "mission": "The elected voice of graduate students. Allocates club funding and runs all-school social programming.",
-    "memberCount": 42,
-    "meets": "Mondays, 7:00 PM",
-    "source": "engage"
+    "mission": "The Graduate Student Council is the eyes, ears, and voice of the graduate student body. The council is comprised of graduate students across all programs and acts as a liaison between students, faculty, and the administration.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GSC/"
   },
   {
-    "name": "Babson Analytics & Operations Club",
+    "name": "Healthcare and Biotech Club",
     "categories": [
-      "Technology",
-      "Professional"
+      "Career and Industry"
     ],
     "tags": [
-      "operations",
-      "supply chain",
-      "analytics",
-      "process"
+      "and",
+      "career",
+      "industry"
     ],
-    "mission": "Operations strategy, supply chain analytics, and process improvement with plant tours and simulation workshops.",
-    "memberCount": 68,
-    "meets": "Alternating Tuesdays",
-    "source": "engage"
+    "mission": "Babson Graduate Healthcare and Biotech Club's mission is to build a community of like-minded\nstudents who have an interest in all things related to healthcare and the Life Sciences. Beyond finding a welcoming community, club members will also be provided with a number of opportunities where they can learn more about the different topics in the field as they relate to business (e.g., startups, Fort",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/HCLS/"
+  },
+  {
+    "name": "India Graduate Club",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "community"
+    ],
+    "mission": "Babson India Graduate Club represents the Indian community at Babson College.  All graduate students are welcome to join, whether they are looking for a close-knit community, a way to interact with others who share their Indian background, or simply want to learn more about the events we will be hosting.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BIG/"
+  },
+  {
+    "name": "Intrapreneurship Initiative",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "Our mission is to serve as a platform for Babson graduate students to advance their understanding, knowledge, and skills in intrapreneurship.\nObjectives:\n-Increase awareness about intrapreneurship and employee-driven innovation across industries and contexts\n-Provide networking opportunities with Babson alumni who are successful in intrapreneurship\n-Learn from best practices presented by industry ",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/INTRA/"
+  },
+  {
+    "name": "Latin American Club",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "community"
+    ],
+    "mission": "Babson Latin American Club's mission  is to bring together the Babson LATAM community, building long-lasting connections between our network of students, faculty, and alumni, as well as other LATAM clubs from the Boston area. We want to create opportunities for our community by carrying our very own stamp of leadership, professionalism, and innovation, ensuring the delivery of exceptional experien",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/LATAM/"
+  },
+  {
+    "name": "Metropoulos Institute for Technology and Entrepreneurship",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "Founded in 2024, Babson's C. Dean Metropoulos Institute for Technology and Entrepreneurship (MiTE) represents Babson's commitment to shaping the future of business by integrating advancements in emerging technology and AI with entrepreneurial education.\n\nMiTE focuses on scaling innovation across the industrial tech ecosystem, including consumer goods, manufacturing, retail, IT, and finance. It fue",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/MiTE/"
+  },
+  {
+    "name": "Office of Belonging and Inclusion",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BELONG/"
+  },
+  {
+    "name": "Office of Doctoral Studies",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/DBA/"
+  },
+  {
+    "name": "Office of Experiential Learning",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/OEL/"
+  },
+  {
+    "name": "Office of First-Generation Student Success",
+    "categories": [
+      "Career and Industry",
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "and",
+      "innovation",
+      "career",
+      "industry",
+      "entrepreneurship"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/OFGSS/"
+  },
+  {
+    "name": "Office of Graduate Student Life and Leadership",
+    "categories": [],
+    "tags": [],
+    "mission": "Graduate Student Life and Leadership supports graduate students outside of the classroom. GLL advises the GSC, graduate clubs, initiatives, forums, signature events, as well as graduate social and community building events. Questions about graduate clubs and student life events may be emailed to GradLL@babson.edu",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/GLL/"
+  },
+  {
+    "name": "Office of the President",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/OOP/"
+  },
+  {
+    "name": "One Year MBA",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/1YR/"
+  },
+  {
+    "name": "Out & Allies Network",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "on probation",
+      "community"
+    ],
+    "mission": "The Out & Allies Network is a judgment-free, safe zone where members \u00e2\u0080\u0093 regardless of sexual orientation, gender identity or gender expression \u00e2\u0080\u0093 can feel supported. The Out & Allies Network is committed to creating a community throughout the graduate school where LGBTQ+ and allies are comfortable being themselves, fostering a place that is welcoming to diversity and inclusive to all.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/ONA/"
   },
   {
     "name": "Product Management Club",
     "categories": [
-      "Technology",
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "Product Management Club's mission  is to cultivate a vibrant community of ambitious product managers,  providing them with essential skills, and knowledge, and fostering a product-oriented mindset to excel in the field of product management.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/PMC/"
+  },
+  {
+    "name": "Running Club",
+    "categories": [
+      "Sports"
+    ],
+    "tags": [
+      "sports"
+    ],
+    "mission": "Babson Running Club's mission is to build a vibrant community that promotes health, fitness, and camaraderie among students through running and related activities. Whether you're a seasoned marathoner or just starting with a newfound interest in running, our club offers something for  everyone.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/running/"
+  },
+  {
+    "name": "Science, Technology, Business, & Society",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/STBS/"
+  },
+  {
+    "name": "Stephen D. Cutler Center for Investments and Finance",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/CUTLER/"
+  },
+  {
+    "name": "Sustainability and Energy Club",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "The Babson Sustainability and Energy Club  is committed to building a sustainable future through hands-on education, passionate advocacy, and proactive initiatives",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BSEC/"
+  },
+  {
+    "name": "Tech Club",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "Babson Graduate Tech Club brings together students who want to understand, build with, and lead through technology. Through hands-on learning, industry connections, and collaboration across Babson and Boston\u00e2\u0080\u0099s tech community, we help members turn curiosity into skills, relationships, and career opportunities.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/tech/"
+  },
+  {
+    "name": "TEDxBabson College",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "TEDxBabson College's mission is to is to provide a platform for speakers that have \"Ideas worth spreading.\" Our audience is the Babson College students, faculty and alumni along with surrounding local communities. Our goal is to ignite curiosity, engage in conversation and explore new ideas. We organize an annual event with about 10-15 speakers, including faculty, a student, and alumni, and have m",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/TEDx/"
+  },
+  {
+    "name": "Thai Graduate Club",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "community"
+    ],
+    "mission": "The mission of the Thai Graduate Club at Babson College is to create a vibrant and inclusive community that celebrates Thai culture and fosters meaningful connections among Thai graduate students and the broader Babson community. Through cultural events, educational initiatives, and social gatherings, we aim to promote cultural exchange, enhance professional development, and support personal growt",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/thai/"
+  },
+  {
+    "name": "The Founder's Cut Initiative",
+    "categories": [
+      "Career and Industry"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "industry"
+    ],
+    "mission": "The Founder's Cut is a strategic storytelling lab dedicated to deconstructing cinematic narratives and applying the principles of masterful persuasion, leadership rooted in purpose, and branding that fosters deep human connection to build enduring and ethical ventures. Analyzing the core intent, integrity, spirituality, and ethical foundations of the narrative (or business). Does the film's purpos",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/TFC/"
+  },
+  {
+    "name": "Veteran's Club",
+    "categories": [
+      "Culture and Community"
+    ],
+    "tags": [
+      "culture",
+      "and",
+      "on probation",
+      "community"
+    ],
+    "mission": "Babson Veteran's Club (BVC) is a community of U.S. and foreign undergraduate, graduate, and executive education program students committed to providing resources and support to veterans and their families at Babson College. Our intent is to support recruitment, integration, and networking through effective communication and agile response to member needs. BVC also works to raise awareness regardin",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BVC/"
+  },
+  {
+    "name": "Weissman Foundry",
+    "categories": [
+      "Career and Industry",
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "and",
+      "innovation",
+      "career",
+      "industry",
+      "entrepreneurship"
+    ],
+    "mission": "The Weissman Foundry is Babson\u00e2\u0080\u0099s hands-on prototyping hub, open to all Babson, Olin, and Wellesley students. We provide the tools, materials, and guidance to help students bring ideas to life\u00e2\u0080\u0094whether for a class, a venture, or personal exploration. Our\u00c2\u00a0mission\u00c2\u00a0is to make early-stage innovation accessible to everyone, fostering a culture of experimentation, iteration, and problem-solving.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/FOUNDRY/"
+  },
+  {
+    "name": "Wellness and Prevention Services",
+    "categories": [
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "and",
+      "innovation"
+    ],
+    "mission": "Wellness & Prevention Services supports population-level health, wellbeing, and safety through an evidence-based, environmental, community-oriented, strategic prevention portfolio that is grounded in harm reduction, health promotion, peer education, and direct services.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/WPS/"
+  },
+  {
+    "name": "Women in Business",
+    "categories": [
+      "Career and Industry",
+      "Culture and Community"
+    ],
+    "tags": [
+      "and",
+      "career",
+      "culture",
+      "industry",
+      "community"
+    ],
+    "mission": "At Babson Women in Business, our mission is to redefine leadership by empowering women to lead with confidence, purpose, and authenticity. We foster a supportive and inclusive community that celebrates visibility, uplifts voices, and encourages bold action. Through purposeful programming, inspiring speakers, and impactful volunteer work, we strive to highlight the achievements of women across Babs",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/BWIB/"
+  },
+  {
+    "name": "Work Futures Lab",
+    "categories": [
+      "Career and Industry",
+      "Entrepreneurship and Innovation"
+    ],
+    "tags": [
+      "and",
+      "innovation",
+      "career",
+      "industry",
+      "entrepreneurship"
+    ],
+    "mission": "Researching and Designing Work.\n\nWork has always been changing.  200 years ago, over 90% of people in the US worked in agriculture.  Today, it\u00e2\u0080\u0099s about 3%.  Technological, social, and legal changes have always altered how and where we work, and what we actually do.  Since the industrial revolution developments like steam engines, electricity, telegraph and telephone, computers, software, and now ",
+    "memberCount": 0,
+    "meets": "",
+    "source": "engage",
+    "groupLink": "https://engage.babson.edu/WFL/"
+  },
+  {
+    "name": "Alpha Kappa Psi",
+    "categories": [
+      "Community",
+      "Greek Letter Fraternities and Sororities",
       "Professional"
     ],
     "tags": [
-      "product",
-      "ux",
-      "ai",
-      "roadmap",
-      "tech recruiting"
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities",
+      "professional",
+      "community"
     ],
-    "mission": "Breaking into product management, including AI product strategy sessions and PM interview loops.",
-    "memberCount": 121,
-    "meets": "Wednesdays, 7:00 PM",
-    "source": "engage"
+    "mission": "Alpha Kappa Psi is an international, co-ed professional business fraternity. It has chapters across the United States, Canada, the United Kingdom, Hong Kong, and the United Arab Emirates.\n\nThe fraternity was established in order to help educate future business leaders, create economic and social values for the local and global communities, build lasting, worldly connections, and create a united an",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/AKPsi/"
   },
   {
-    "name": "Retail & Luxury Goods Club",
+    "name": "Alumni Engagement and Annual Giving",
     "categories": [
-      "Marketing"
+      "Community",
+      "Professional",
+      "Social"
     ],
     "tags": [
-      "retail",
-      "luxury",
-      "consumer",
-      "merchandising"
+      "professional",
+      "social",
+      "community"
     ],
-    "mission": "Careers in retail, luxury, and consumer goods with NYC brand treks each fall.",
-    "memberCount": 64,
-    "meets": "Alternating Thursdays",
-    "source": "engage"
+    "mission": "To foster innovative opportunities for engagement that build meaningful, lifelong connections and sustained support for the College.\u00c2",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/AEAG/"
   },
   {
-    "name": "Family Enterprise Club",
+    "name": "AMAN",
     "categories": [
-      "Entrepreneurship"
+      "Community",
+      "Cultural",
+      "Social"
     ],
     "tags": [
-      "family business",
-      "succession",
-      "governance"
+      "social",
+      "cultural",
+      "community"
     ],
-    "mission": "For students entering or leading family enterprises. Succession planning workshops and next-gen peer groups.",
-    "memberCount": 79,
-    "meets": "Fridays, 12:00 PM",
-    "source": "belong"
+    "mission": "AMAN exists to increase awareness surrounding the countries comprising South-East through a unification of the diverse people, heritage, languages, and cultures. The organization represents 5 South Asian countries and their cultures, such as India, Pakistan, Bangladesh, Sri Lanka and Nepal. We host several events and meetings to not only spread cultural awareness but to create a \"home away from ho",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/AMAN/"
   },
   {
-    "name": "Babson Sports Business Club",
+    "name": "Art of Cooking",
     "categories": [
+      "Arts",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "arts",
+      "community"
+    ],
+    "mission": "The purpose of the Art of Cooking is to bring together Babson College students who have a passion for food and cooking. This organization will promote learning not only about the art of cooking, but also the importance of food, and various cultures.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/AOC/"
+  },
+  {
+    "name": "Arthur M. Blank Center for Entrepreneurship",
+    "categories": [
+      "Academic",
+      "Community"
+    ],
+    "tags": [
+      "academic",
+      "community"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/TBC/"
+  },
+  {
+    "name": "Babson Accounting Club",
+    "categories": [
+      "Community",
       "Professional"
     ],
     "tags": [
-      "sports",
-      "analytics",
-      "media",
-      "sponsorship"
+      "professional",
+      "community"
     ],
-    "mission": "Sports business careers across leagues, agencies, and analytics, with Boston franchise front-office visits.",
-    "memberCount": 133,
-    "meets": "Tuesdays, 8:00 PM",
-    "source": "belong"
+    "mission": "The Babson Accounting Club (BAC) maintains strong connections with the Undergraduate Center for Career Development, the Big Four accounting firms, and numerous alumni across the industry to bring insightful events to the Babson community. In addition, the organization guides students through the popular Big Four recruiting process with resume building and application reminders. Moreover, BAC seeks",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BAC/"
   },
   {
-    "name": "Graduate International Student Association",
+    "name": "Babson African Student Association",
     "categories": [
-      "Identity",
       "Cultural"
     ],
     "tags": [
-      "international",
-      "visa",
-      "opt",
+      "cultural"
+    ],
+    "mission": "The Organization's purpose is to be an inclusive community that celebrates the diversity within African culture and the economic opportunities in Africa in an effort to promote a learning and social environment that will enrich students' interest in Africa. We have 3 pillars that we seek to provide to Babson students: Support, Education, and Development. We want to support students on campus who i",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BASO/"
+  },
+  {
+    "name": "Babson Alternative Investments Association",
+    "categories": [],
+    "tags": [],
+    "mission": "At BAIA, we make alternative investments understandable and accessible for every Babson student. We bring people together so we can all learn, ask questions, and connect about everything from hedge funds to crypto. Our club is open to everyone, whether you just want to check things out or dive deep into finance careers. We host guest speakers, share our real-world experiences, and help students di",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BAIA/"
+  },
+  {
+    "name": "Babson Artificial Intelligence Club",
+    "categories": [
+      "Academic",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "academic",
+      "social",
       "community"
     ],
-    "mission": "Community and practical support for international graduate students, including OPT and visa navigation sessions.",
-    "memberCount": 226,
-    "meets": "Alternating Wednesdays",
-    "source": "engage"
+    "mission": "- To encourage Babson students to implement their business decisions utilizing machine intelligence techniques.\n- To educate the greater Babson community about the importance of tech, data analytics and AI.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BAIC/"
   },
   {
-    "name": "Babson Robotics & Automation Club",
+    "name": "Babson Asian Pacific Student Association",
     "categories": [
-      "Technology"
+      "Community",
+      "Cultural",
+      "Social"
     ],
     "tags": [
-      "robotics",
-      "automation",
-      "hardware",
-      "ai",
-      "machine learning"
+      "social",
+      "cultural",
+      "community"
     ],
-    "mission": "Hands-on robotics builds and automation applications for business, including computer vision and ML-driven control.",
-    "memberCount": 51,
-    "meets": "Saturdays, 1:00 PM",
-    "source": "belong"
+    "mission": "The Babson Asian Pacific Student Association is a cultural group with an interest in Pacific Asian culture. Also known as BAPSA, our purpose is based on the four principles of diversity, self-awareness, friendship, and experience.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BAPSA/"
   },
   {
-    "name": "Real Talk Mental Health Collective",
+    "name": "Babson Association of Latino Professionals For America",
+    "categories": [],
+    "tags": [],
+    "mission": "The mission of ALPFA (Association of Latino Professionals For America) is to empower and develop Latino men and women as leaders of character for the nation in every sector of the global economy. ALPFA aims to provide its members with opportunities for professional growth, networking, and leadership development, while also fostering a sense of community among Latino professionals across various in",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/ALPFA/"
+  },
+  {
+    "name": "Babson Association of Singapore Culture",
+    "categories": [],
+    "tags": [],
+    "mission": "Foster a meaningful cultural club where Singapore and its varieties of cultures, languages, cuisines and festivals are celebrated and accurately represented",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BASC/"
+  },
+  {
+    "name": "Babson Beauty Association",
+    "categories": [],
+    "tags": [],
+    "mission": "Our mission is to unite boys and girls of all grade levels who are interested in a career in beauty, connect individuals with industry professionals through personal connections and Babson alumni.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BabsonBeautyAssociation/"
+  },
+  {
+    "name": "Babson Biotech Club",
     "categories": [
-      "Wellness"
+      "Community",
+      "Professional",
+      "Social"
     ],
     "tags": [
-      "wellness",
-      "mental health",
-      "peer support"
+      "professional",
+      "social",
+      "community"
     ],
-    "mission": "Peer-led conversations and wellness programming that reduce stigma around mental health on campus.",
-    "memberCount": 92,
-    "meets": "Alternating Mondays",
-    "source": "belong"
+    "mission": "Babson's bridge to healthcare innovation; learning, creating, and capitalizing on tomorrow's biggest opportunities.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BBTC/"
+  },
+  {
+    "name": "Babson Book Bunch",
+    "categories": [
+      "Academic",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "academic",
+      "social",
+      "community"
+    ],
+    "mission": "To make a community in which members can share\nknowledge about books they have already read and are reading (unlike a typical book\nclubs)",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BBB/"
+  },
+  {
+    "name": "Babson Canadian Club",
+    "categories": [
+      "Cultural"
+    ],
+    "tags": [
+      "cultural"
+    ],
+    "mission": "The mission of the Canadian Club is to bring a piece of home to campus for Canadian students while creating a welcoming space to celebrate and share Canadian culture with the wider student community. Through events, traditions, and shared experiences, we aim to foster a sense of belonging for Canadians on campus while educating others about Canada's diverse heritage, customs, and identity.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BCCA/"
+  },
+  {
+    "name": "Babson Car Club",
+    "categories": [
+      "Community",
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social",
+      "community"
+    ],
+    "mission": "Babson Car Club is a welcoming group for all car enthusiasts to share the common passion for automotive culture.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CAR/"
+  },
+  {
+    "name": "Babson Chabad",
+    "categories": [
+      "Religious"
+    ],
+    "tags": [
+      "religious"
+    ],
+    "mission": "The purpose of Babson Chabad is to create a strong and vibrant foundation for the Jewish community off campus where Babson students can participate in meaningful Jewish experiences. Chabad is organized to provide unique experiences through religious, social, cultural, social action, and Israel-related programming for all Babson students.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Chabad/"
+  },
+  {
+    "name": "Babson Cheerleading",
+    "categories": [],
+    "tags": [],
+    "mission": "Babson College cheerleaders will serve as the primary support group to lead and direct spirit for athletics, special events, and activities. Cheerleaders will encourage school pride, good sportsmanship and a positive image in school activities. Education is foremost in cheerleading and good personal conduct is not limited to the sidelines. Cheerleaders will project an image of high standards, mora",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BabsonCheer/"
+  },
+  {
+    "name": "Babson Christian Fellowship",
+    "categories": [
+      "Religious"
+    ],
+    "tags": [
+      "religious"
+    ],
+    "mission": "Christian Fellowship is for Christians of all denominations and backgrounds. We have Breaking bread every Thursday which is led by the Protestant Chaplain and student leaders. BCF is here for all students who want to learn about Christ and/or thrive in their Christian journey while they are at Babson.\n\nAnyone can join.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BCF/"
+  },
+  {
+    "name": "Babson Club Baseball",
+    "categories": [
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation"
+    ],
+    "mission": "Babson Club Baseball plays a 12 game schedule in both the fall and spring against other competitive colleges around New England. There is no better way to start off your college career than by joining a team with a great group of guys, who are also friends off the field. Most of our team has high school baseball experience, but players of all abilities are encouraged to come to a game or practice ",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Baseball/"
+  },
+  {
+    "name": "Babson Club Pickleball",
+    "categories": [],
+    "tags": [],
+    "mission": "The Babson Pickleball Club is an inclusive and competitive community that brings students together through the sport of pickleball. We provide opportunities for players of all skill levels to learn, compete, and connect through open play, social events, skill development programs, and intercollegiate competition. Whether members are picking up a paddle for the first time or representing Babson on ",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BCP/"
+  },
+  {
+    "name": "Babson Club Tennis",
+    "categories": [],
+    "tags": [],
+    "mission": "The purpose of Babson Club Tennis is to provide opportunities members to play and field a competitive tennis team that competes against other local top universities and reach Nationals. It is centered on teamwork, skill development, competitive play, and a family spirit.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BCT/"
+  },
+  {
+    "name": "Babson College Equestrian Team",
+    "categories": [
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social"
+    ],
+    "mission": "BCET is a club equestrian team at Babson College. Team members take weekly riding lessons at Grand Champion Show Stables. Riders of all experiences are welcomed to join and the team is dedicated to the continuous development of its riders' horsemanship.  The team competes in the Intercollegiate Horse Show Association for the New England region.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BCET/"
+  },
+  {
+    "name": "Babson Consulting Association",
+    "categories": [
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "professional",
+      "community"
+    ],
+    "mission": "The Purpose of the Babson Consulting Association is to build relationships with consulting firms, professionals, business leaders, industry experts, alumni, faculty, and current students to introduce Babson undergraduates to and prepare them for, a career in consulting. The club will leverage these contacts by hosting consulting-centric events, case prep sessions, case competitions, company and in",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BCA/"
+  },
+  {
+    "name": "Babson Dance Ensemble",
+    "categories": [
+      "Arts",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "arts",
+      "community"
+    ],
+    "mission": "The Babson Dance Ensemble is the largest student-run organization on campus, hosting over 60 members annually to perform in three show-stopping performances each semester. Dance styles range from hip hop to jazz to tap to contemporary to African...anything you can think of, we've covered it before.\n\nWe're constantly looking for new members that are inspired by music, passionate about dance, suppor",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BDE/"
+  },
+  {
+    "name": "Babson Debate Union",
+    "categories": [
+      "Community"
+    ],
+    "tags": [
+      "community"
+    ],
+    "mission": "The Babson Debate Union is dedicated to fostering excellence in persuasive communication, critical thinking, and rhetorical skill among Babson's undergraduate community. Our mission is to build a premier collegiate debate program that:\n\n- Cultivates intellectual curiosity through rigorous engagement with diverse topics and perspectives\n\n- Develops exceptional debaters through our comprehensive tra",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BDU/"
+  },
+  {
+    "name": "Babson Economics Club",
+    "categories": [
+      "Academic",
+      "Community",
+      "Professional",
+      "Social"
+    ],
+    "tags": [
+      "academic",
+      "professional",
+      "social",
+      "community"
+    ],
+    "mission": "The Club exists to give Babson undergraduates a place to learn about economics, engage with economic ideas and current events, build friendships across class years and majors, and pursue their individual interests in the field, all in an open, welcoming, and intellectually serious environment.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/ECON/"
+  },
+  {
+    "name": "Babson Esports Club",
+    "categories": [
+      "Community",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "community"
+    ],
+    "mission": "Babson Esports is a collegiate Esports organization with the mission of becoming a leader in the scene through experiential learning, fun events, and competition!\n\nThe Babson Esport Club was founded in April 2020 to primarily provide a safe space for student gamers to meet other student gamers here on campus. Since then, it has grown into a hub on campus where students can compete or play casually",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Esports/"
+  },
+  {
+    "name": "Babson Finance Association",
+    "categories": [
+      "Academic",
+      "Professional",
+      "Community Leadership Team"
+    ],
+    "tags": [
+      "team",
+      "academic",
+      "leadership",
+      "professional",
+      "community"
+    ],
+    "mission": "Our mission is to bring together students with an active interest in finance and facilitate further exposure and engagement in the field. Our sectors and cohorts aim to encapsulate all relevant areas of interest and support different professional paths. Through workshops, speaker events, site visits, and competitions, BFA's initiatives collectively work to provide members with the skills, resource",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BFA/"
+  },
+  {
+    "name": "Babson Golf Club",
+    "categories": [
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation"
+    ],
+    "mission": "Babson Club Golf is open to any undergraduate student interested in the game of golf. We want to create a team environment centered around the game. We are pursuing more team activities such a weekly rounds, coordinated range meet-ups, peer-to-peer lessons, inter-Babson Club Tournaments, and NCCGA Regional Tournaments for our members.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/GOLF/"
+  },
+  {
+    "name": "Babson Greenworks",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Greenworks/"
+  },
+  {
+    "name": "Babson Hawai'i Student Association",
+    "categories": [],
+    "tags": [],
+    "mission": "Our mission is to spread the Aloha Spirit and authentically connect Babson students with the culture, values, and traditions of Hawai\u00e2\u0080\u0098i. Through food, stories, and community, we celebrate aloha by embracing love, generosity, respect for nature, and appreciation of all cultures.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BHSA/"
+  },
+  {
+    "name": "Babson Hillel",
+    "categories": [
+      "Community",
+      "Religious"
+    ],
+    "tags": [
+      "religious",
+      "community"
+    ],
+    "mission": "Babson Hillel embodies the spirit of the International Hillel Foundation by providing cultural and religious opportunities to the Jewish community and the larger Babson community.  Babson Hillel promotes an open and welcoming space for the Jewish and non-Jewish Babson community while also enriching the lives of Jewish students so that they enrich the world.  Babson Hillel members are involved with",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Hillel/"
+  },
+  {
+    "name": "Babson Indonesian Association",
+    "categories": [],
+    "tags": [],
+    "mission": "The Babson Indonesian Association (BIA) is dedicated to fostering a vibrant and inclusive community for Indonesian students at Babson College. Our mission is to create an environment where students with Indonesian heritage are able to connect and celebrate their shared identity while also thriving academically and socially. \nOur mission is to create a supportive environment where students of Indon",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BIA/"
+  },
+  {
+    "name": "Babson International Student Collective",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "To empower and connect international students at Babson College by fostering an inclusive community, celebrating cultural diversity, supporting personal and professional growth, and promoting global awareness across campus.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BISC/"
+  },
+  {
+    "name": "Babson Latin American Group",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Professional"
+    ],
+    "tags": [
+      "professional",
+      "cultural",
+      "community"
+    ],
+    "mission": "The Babson Latin America Business Club (LATAM Club) is dedicated to creating a home away from home for students by fostering an inclusive and supportive community through social, cultural, professional, and educational experiences. We celebrate Latin American culture and identity while promoting awareness of the region's business, entrepreneurship, economics, politics, and diverse perspectives. Ou",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/LATAM/"
+  },
+  {
+    "name": "Babson Lifting Club",
+    "categories": [
+      "Community",
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social",
+      "community"
+    ],
+    "mission": "BLC: Empowering lifters of all levels to grow stronger together and create a community of strong, empowered men and women who support each other with their goals, inside and outside the gym.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BLC/"
+  },
+  {
+    "name": "Babson Marketing Society",
+    "categories": [
+      "Professional",
+      "Social"
+    ],
+    "tags": [
+      "professional",
+      "social"
+    ],
+    "mission": "The Babson Marketing Society aims to expose undergraduate students to an active interest in marketing through events, networking, and case studies.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BMS/"
+  },
+  {
+    "name": "Babson Men's Club Basketball",
+    "categories": [],
+    "tags": [],
+    "mission": "With the goal of enabling players to succeed on and off the court, our club basketball program is committed to building a passionate, supportive, and growing community. We work to create well-rounded people who exemplify sportsmanship, resilience, and excellence through demanding training, a competitive attitude, and constant support. With an emphasis on diversity and ethics, we strive to develop ",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/MCB/"
+  },
+  {
+    "name": "Babson Men's Club Soccer",
+    "categories": [
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation"
+    ],
+    "mission": "Babson Men's Club Soccer offers a competitive soccer team,  focusing on team spirit and having fun, while committing to excellence in academics.  The team practices twice a week and has one game on the weekend.  Babson's Club team is part of the Boston Club League, which includes teams from colleges and universities such as Harvard, Boston College, Northeastern and other schools in the Boston area",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BMSC/"
+  },
+  {
+    "name": "Babson Muslim Students Association",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Religious"
+    ],
+    "tags": [
+      "religious",
+      "cultural",
+      "community"
+    ],
+    "mission": "The Babson Muslim Students Association provides a safe and open environment that allows any Babson College Community member to participate in learning about Islam, regardless of race, religion or culture. The purpose of the MSA is to provide social events, religious events and community service events to bring the members of our community together.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/MSA/"
+  },
+  {
+    "name": "Babson Olin Catholic Association",
+    "categories": [
+      "Community",
+      "Religious"
+    ],
+    "tags": [
+      "religious",
+      "community"
+    ],
+    "mission": "The Babson Olin Catholic Association provides Catholics with the chance to get to know each other on campus and to participate in various faith-building activities together. Some of the events that BOCA puts on include weekly mass, weekly Rosary prayer, holiday dinners, community service, and social events.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BOCA/"
+  },
+  {
+    "name": "Babson Olin Wellesley Figure Skating Club",
+    "categories": [
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social"
+    ],
+    "mission": "The Babson, Olin, Wellesley Figure Skating Club brings together students from all three schools who are passionate about figure skating. The club is open to everyone from newcomers to gold medalist skaters. We strive to create opportunities for club members to skate together, compete on behalf of their school and build a community of students passionate about figure skating.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BOWFSC/"
+  },
+  {
+    "name": "Babson On Film",
+    "categories": [],
+    "tags": [],
+    "mission": "Babson on Film provides a space for students to create films, utilize both film and digital photography, and collaborate with other students interested in video making and photography.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BOF/"
+  },
+  {
+    "name": "Babson on Ping Pong",
+    "categories": [
+      "Community",
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social",
+      "community"
+    ],
+    "mission": "Our mission at Bopp is to create a fun and competitive environment for ping pong players of all skill levels to have a fun and insightful experience about the game of Ping Pong",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/B0PP/"
+  },
+  {
+    "name": "Babson Operations Association",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "The BOA is dedicated to empowering students passionate about Operations Management. Our mission is to support your journey in this dynamic field, whether you're seeking insights from industry leaders, expanding your professional network, or preparing for internships.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BOA/"
+  },
+  {
+    "name": "Babson Players",
+    "categories": [
+      "Arts",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "arts",
+      "community"
+    ],
+    "mission": "The Babson Players produce, organize, perform, promote, and create a space for unity in the living arts, inclusive of plays, musicals, and other theatrical projects, for members of the Babson community and surrounding public. Our primary method for inclusion of the arts is through the production of professional, high-quality theater.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Players/"
+  },
+  {
+    "name": "Babson Political Association",
+    "categories": [
+      "Community",
+      "Professional",
+      "Social"
+    ],
+    "tags": [
+      "professional",
+      "social",
+      "community"
+    ],
+    "mission": "The Babson Political Association (BPA) aims to promote healthy political discussion and participation on campus. We provide an inclusive space for students from diverse backgrounds to learn about and contribute to both domestic and international politics.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BPA/"
+  },
+  {
+    "name": "Babson Polo Club",
+    "categories": [
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation"
+    ],
+    "mission": "Babson Polo club is a polo team at Babson College that aims to spread the sport of polo and make the sport more accessible for the Babson student community.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/POLO/"
+  },
+  {
+    "name": "Babson Pride",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "Pride is the Babson College student organization that promotes inclusivity within the LGBTQ+ (lesbian, gay, bisexual, transgender, queer/questioning) community. We work to develop a strong and supportive community in which students feel comfortable being and expressing themselves. Our work is carried out through the support of on and off-campus events.\n\nEmail is our primary contact for more inform",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/PRIDE/"
+  },
+  {
+    "name": "Babson Real Estate Club (UG)",
+    "categories": [
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "professional",
+      "community"
+    ],
+    "mission": "The Babson Real Estate Club is a student-led organization that inspires integrity and impact in the real estate profession. Moreover, the organization aims to cultivate a community of driven individuals who all share a common passion and eagerness to learn about the real estate industry. \n\nWe host a speaker series throughout the semester with real estate professionals in private equity, developmen",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BREC/"
+  },
+  {
+    "name": "Babson Retail Organization",
+    "categories": [],
+    "tags": [],
+    "mission": "There is a strong retail community at Babson and not enough resources for those students, creating this club would give students the opportunity to hear from speakers in this industry, attend events and recruit fairs. We would have the club backed up by the National Retail Federation where members would be provided with more opportunities like the student program in NYC. In addition, we will be ab",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BabsonRetailOrganization/"
+  },
+  {
+    "name": "Babson Rocket Pitches",
+    "categories": [
+      "Arts",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "arts",
+      "community"
+    ],
+    "mission": "The Babson Rocket Pitches a cappella group is a co-ed group of undergraduate students who share a passion for vocal music and performance.\n\nAny student with music experience or interest is welcome to audition.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BRP/"
+  },
+  {
+    "name": "Babson Russian-Speaking Society",
+    "categories": [],
+    "tags": [],
+    "mission": "Babson Russian-Speaking Society will connect current Babson students who can speak Russian, as well as popularizing Babson College among Russian-speaking people who are deciding which university to choose. In the club\u00e2\u0080\u0099s meetings, we will be serving national food and talk about Russian culture. All students are welcome to participate in those meetings.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/TheRussianSpeakingSociety/"
+  },
+  {
+    "name": "Babson Social Impact Club",
+    "categories": [],
+    "tags": [],
+    "mission": "The Babson Social Impact Club empowers students to explore how business can be a force for good. Through events, community partnerships, and hands on initiatives, we help students develop the skills, network, and experiences needed to drive meaningful change on campus and beyond.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BSIC/"
+  },
+  {
+    "name": "Babson Sound",
+    "categories": [
+      "Arts",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "arts",
+      "community"
+    ],
+    "mission": "Babson Sound aspires to nurture a campus ethos centered around creative expression, media interaction, and live performances, all while cultivating a community grounded in the artistry and appreciation of music.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BCR/"
+  },
+  {
+    "name": "Babson Sports Business Society",
+    "categories": [],
+    "tags": [],
+    "mission": "The Babson Sports Business Society was created to teach students the basics of the sports business industry. Babson students who are former athletes, current athletes, aspiring General Managers, or just sports fans will have the chance to get into the world of sports off the field. With Babson's limited options for aspiring sports business minds, this society was created to get these students in t",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BSB/"
+  },
+  {
+    "name": "Babson Sustainability Club",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "To engage and empower students to be leaders in sustainability at Babson.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BSC/"
+  },
+  {
+    "name": "Babson Taiwanese Student Association",
+    "categories": [],
+    "tags": [],
+    "mission": "The Babson Taiwan Student Association (TSA) exists to foster a sense of belonging for Taiwanese students at Babson College, acting as a home away from home for many students. We are committed to our values of connection, cultural pride, and mutual support not only within the Taiwanese community but also the Babson community.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BTSA/"
+  },
+  {
+    "name": "Babson Technology Society",
+    "categories": [
+      "Community",
+      "Professional",
+      "Social"
+    ],
+    "tags": [
+      "professional",
+      "social",
+      "community"
+    ],
+    "mission": "To teach more and more people how to practically apply the concepts formulated by our society on topics concerning new technology\n\nEveryone should be able to make sense of what is happening around them",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BTS/"
+  },
+  {
+    "name": "Babson Thai Association",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "The mission of Babson Thai Association is to serve as a dynamic platform for promoting Thai culture within the Babson community. Committed to fostering a deep appreciation for the rich heritage, traditions, and diversity of Thailand, the association strives to create an inclusive space that transcends cultural boundaries. Through a variety of engaging activities, events, and educational initiative",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BTA/"
+  },
+  {
+    "name": "Babson Ultimate Frisbee",
+    "categories": [],
+    "tags": [],
+    "mission": "The intent of this organization is to bring together students who have an interest in the sport of ultimate frisbee, providing them with opportunities to play and improve, regardless of their level of experience in the game. We also hope to connect with the BOW community and create a welcoming space for physical activity, where students can have fun and engage with the growing sport of ultimate fr",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BUF/"
+  },
+  {
+    "name": "Babson Undergraduate Family Entrepreneurship Club",
+    "categories": [],
+    "tags": [],
+    "mission": "To build a community for Babson undergraduate students from family entrepreneurship backgrounds to learn from one another during their Babson experience.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BUFEC/"
+  },
+  {
+    "name": "Babson United Rugby Club",
+    "categories": [
+      "Community",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "community"
+    ],
+    "mission": "Continue building a highly competitive and enjoyable rugby program by developing young men, through empowering and introspective leadership that will enrich all those they encounter.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BURC/"
+  },
+  {
+    "name": "Babson Vietnamese Student Association",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "Vietnamese Student Association aims to create an inclusive community for existing and future Vietnamese students, while also allowing non-Vietnamese students to learn about and celebrate the Vietnamese culture.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BVSA/"
+  },
+  {
+    "name": "Babson Women's Collective",
+    "categories": [
+      "Community",
+      "Professional",
+      "Social"
+    ],
+    "tags": [
+      "professional",
+      "social",
+      "community"
+    ],
+    "mission": "To create a community of women that celebrates the desire to achieve,\ncultivating their ambition in order to prepare the next generation of leaders.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BWC/"
+  },
+  {
+    "name": "Babson Women's Rugby",
+    "categories": [
+      "Community",
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social",
+      "community"
+    ],
+    "mission": "Babson Women's Rugby (BWR) is a Developmental Division III club sports team that plays competitively in the NEWCRC conference. BWR encourages athleticism and team bonding, with flexibility for academics and other activities.  Whether you have never even seen rugby before or are an experienced player, come out and join our team!",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BWR/"
+  },
+  {
+    "name": "Babson Yoga and Pilates",
+    "categories": [],
+    "tags": [],
+    "mission": "Babson Yoga and Pilates Club strives to provide Babson students, faculty, and staff with opportunities to share the experience of mindfulness, meditation, and reflection discussions to promote healthy living & well-being.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/YOGA/"
+  },
+  {
+    "name": "BabsonARTS",
+    "categories": [],
+    "tags": [],
+    "mission": "BabsonARTS' diverse programming includes theater, dance, music, film, literary and visual arts to expand perspectives, promote empathy, share the endless opportunities for students in the arts and entertainment industry, and to infuse creative thinking into the entrepreneurial mindset.  A big part of our mission is to support the creative and performing experiences of our many talented students an",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/ART/"
+  },
+  {
+    "name": "Bertarelli Institute for Family Entrepreneurship",
+    "categories": [
+      "Academic",
+      "Professional"
+    ],
+    "tags": [
+      "academic",
+      "professional"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BIFE/"
+  },
+  {
+    "name": "Black Student Union",
+    "categories": [
+      "Community",
+      "Cultural"
+    ],
+    "tags": [
+      "cultural",
+      "community"
+    ],
+    "mission": "The mission of the Babson College Black Student Union is to foster an inclusive community for students who identify as Black or have ancestral ties to the African Diaspora through three core pillars: Community Building, Academic Excellence (ACEE), and Professional Development. We celebrate and educate the Babson community on the rich cultures, histories, and contributions of the African Diaspora w",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BSU/"
+  },
+  {
+    "name": "Blank School",
+    "categories": [
+      "Academic",
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "academic",
+      "professional",
+      "community"
+    ],
+    "mission": "The Blank School for Entrepreneurial Leadership combines Babson\u00e2\u0080\u0099s entrepreneurial centers and institutes to offer workshops, mentorship, funding, research, accelerators, and lifelong learning resources aimed at preparing individuals to lead change and create sustainable value.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Arthurblankschool/"
+  },
+  {
+    "name": "Brazilian Student Association Babson",
+    "categories": [
+      "Community",
+      "Cultural"
+    ],
+    "tags": [
+      "cultural",
+      "community"
+    ],
+    "mission": "We are the Babson College chapter of the global organization BRASA (gobrasa.org). \n\nOur main goal is to empower Brazilian students to be the leading cause of change in our home country.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BRASA/"
+  },
+  {
+    "name": "Business Mindset  and Philosophy Organization",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "Babson's Business Mindset and Philosophy seeks to create a culture in which budding business leaders can easily obtain entrepreneurial mindsets, and support their like-minded peers.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BMPO/"
+  },
+  {
+    "name": "Campus Activities Board",
+    "categories": [
+      "Community"
+    ],
+    "tags": [
+      "community"
+    ],
+    "mission": "CAB is one of the largest organizations on campus. Our primary focus is to plan and execute events across campus and to amplify the social scene here at Babson. We strive to provide social, cultural, and educational events that are responsive to the diverse needs of our community. CODE WORD: LEMONADE",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CAB/"
+  },
+  {
+    "name": "Campus Life",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/campuslife/"
+  },
+  {
+    "name": "Chess Club Babson",
+    "categories": [
+      "Community",
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social",
+      "community"
+    ],
+    "mission": "Our mission with the Babson Chess Club is to unite members of the Babson community to collectively experience the game of chess. This club will allow members to interact and enjoy chess within a fun setting.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CCB/"
+  },
+  {
+    "name": "Chi Omega",
+    "categories": [
+      "Community",
+      "Greek Letter Fraternities and Sororities"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities",
+      "community"
+    ],
+    "mission": "Greetings from the ladies of Chi Omega!  The Sigma Mu Chapter of Chi Omega is one of 3 sororities on Babson's campus. Founded at Babson on December 3, 2005, Chi Omega has continually provided its members with six founding purposes: Friendship, High Standards of Personnel, Sincere Learning and Creditable Scholarship, Career Development, Participation in Campus Activities, and Community Service. Our",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/ChiO/"
+  },
+  {
+    "name": "Chinese Students and Scholars Association",
+    "categories": [
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "cultural"
+    ],
+    "mission": "Chinese Students and Scholars Association (CSSA) is a place for students who are interested in Chinese culture or from great China area to experience Chinese culture, including both traditional one and modern one. We hold a great variety of events, including cultural events like Spring Gala, speaker events of Chinese entrepreneurs, workshops, weekend trips and etc.\n\nThis association is now managed",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CSSA/"
+  },
+  {
+    "name": "Clubs and Organizations 101",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CO101/"
+  },
+  {
+    "name": "Co-Ed Field Hockey",
+    "categories": [
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation"
+    ],
+    "mission": "Babson Intramural Field Hockey\u00e2\u0080\u0099s objective is to offer a competitive club field hockey team with a focus on providing a safe and fun environment for Babson, Olin and Wellesley students to play field hockey, both within our own team and against other schools.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BWFH/"
+  },
+  {
+    "name": "Co-Ed Volleyball Club",
+    "categories": [
+      "Community",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "community"
+    ],
+    "mission": "Co-ed Volleyball Club is an organization people can join to play the sport we all love: volleyball. Men and Women are welcome, and occasionally volunteers will travel to play other colleges' volleyball clubs in makeshift tournaments and play in the New England Yankee Tournaments. Those who do not want to travel, however, are still welcome to play with the club. The organization as a whole is stude",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Volleyball/"
+  },
+  {
+    "name": "College Panhellenic Council",
+    "categories": [],
+    "tags": [],
+    "mission": "The object of the College Panhellenic Council shall be to develop and maintain women's fraternity life and interfraternal relations at a high level of accomplishment.\n\nApply to be on the Executive Board! https://forms.gle/1WbhUYrMmFHsziWA6",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CPC/"
+  },
+  {
+    "name": "Combat Sports - Babson Boxing & MMA",
+    "categories": [
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation"
+    ],
+    "mission": "Boxing: \nAt Babson Boxing Club, we are not just a boxing club; we're a thriving community united by a shared passion for the art of boxing. We travel off-campus to a local boxing gym in Newton, our dynamic training space serves as the backdrop for members to engage in spirited sparring sessions while fostering discipline, strength, and lasting connections. Beyond the ring, our commitment extends t",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Combat/"
+  },
+  {
+    "name": "Community Of Developers & Entrepreneurs",
+    "categories": [
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "professional",
+      "community"
+    ],
+    "mission": "CODE (Community of Developers & Entrepreneurs) was founded in Fall 2015 by a group of students passionate about the intersection of technology and business. Since then, we're grateful to have done some pretty cool things:\n\n- We've grown to hundreds of members\n- We've hosted a bunch of fun and informative events\n- We cooperated with Olin School of Engineering to host speaker, networking events\n- We",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CODE/"
+  },
+  {
+    "name": "CREATE",
+    "categories": [
+      "Arts",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "arts",
+      "community"
+    ],
+    "mission": "CREATE serves as a network and unofficial umbrella for the arts at Babson College\u00e2\u0080\u0094many of our members are also leaders and participants in other creative organizations across campus. Internally, our mission is to build a safe, welcoming, and strong communal space where creatives can thrive by providing resources, community support, and a high-trust social network that helps members grow their cr",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CREATE/"
+  },
+  {
+    "name": "Cru",
+    "categories": [
+      "Religious"
+    ],
+    "tags": [
+      "religious"
+    ],
+    "mission": "Cru Babson is part of Cru, a caring community passionate about connecting people to Jesus Christ (www.cru.org).\n\n1.) We serve the purpose of connecting and pointing other people toward our Lord and Savior, Jesus Christ. We plan to serve those who already profess Christ, those who do not know him, and also those who reject him.\n\n2.) We plan to accomplish this by proclamation of the Gospel, study of",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Cru/"
+  },
+  {
+    "name": "Delta Sigma Pi Fraternity",
+    "categories": [
+      "Greek Letter Fraternities and Sororities"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities"
+    ],
+    "mission": "Delta Sigma Pi is a professional fraternity organized to foster the study of business in universities; to encourage scholarship, social activity, and the association of students for their mutual advancement by research and practice; to promote closer affiliation between the commercial world and students of commerce, and to further a higher standard of commercial ethics and culture and the civic an",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/DSP/"
+  },
+  {
+    "name": "Delta Tau Delta",
+    "categories": [
+      "Greek Letter Fraternities and Sororities"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities"
+    ],
+    "mission": "Delta Tau Delta is a value-driven organization, and we strive to make all of our decisions based on our mission and values. Our members live by the principles of integrity, accountability, truth and courage. Building a fraternity around these values sets forth the expectations for how the fraternity will run and the behavior in the fraternity. Bringing these values into our Brotherhood allow for p",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/DTD/"
+  },
+  {
+    "name": "Dharma Circle",
+    "categories": [
+      "Religious"
+    ],
+    "tags": [
+      "religious"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BDC/"
+  },
+  {
+    "name": "Eta Omega Chi",
+    "categories": [
+      "Professional"
+    ],
+    "tags": [
+      "professional"
+    ],
+    "mission": "Eta Omega Chi is organized to pursue the spirit of entrepreneurship; to share and consolidate resources among students; to encourage each innovative idea as well as leadership, and to further a higher standard of cultural and professional value in order to serve the community. During our pledging process, a wide range of topics and workshops about entrepreneurship will be taught to the pledges suc",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/HOX/"
+  },
+  {
+    "name": "eTower",
+    "categories": [
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "professional",
+      "community"
+    ],
+    "mission": "eTower was founded in 2001 to bring together the best student entrepreneurs into one living community at Babson College. Babson is renowned as the #1 undergraduate school for entrepreneurship for over 20 years.\n\nThrough its development, eTower has become a highly valued space on campus. Special guests and unique events attract students from all over to eTower's Common Room every Wednesday night at",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/eTower/"
+  },
+  {
+    "name": "Fashion and Sneaker Organization",
+    "categories": [],
+    "tags": [],
+    "mission": "Our organization enables students to step out of their comfort zone and explore their creative interests. The organization revolves around the idea of guiding students through beginning stages of entering the fashion industry. We don't require experience in order to join, as we believe that we could learn, build and execute as a collective team at Babson. Our end goal is to bring like-minded stude",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/FSO/"
+  },
+  {
+    "name": "Filipino Student Association",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "We aim to provide Filipinos and Filipino-Americans with the community and support they need to flourish on campus, amplify Filipino voices at Babson and associated campuses such as Wellesley, Brandeis, and Olin, and share the elements of our culture to engage in the representation Filipinos deserve.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/FSA/"
+  },
+  {
+    "name": "FLI Network (First-Gen & Limited-Income)",
+    "categories": [],
+    "tags": [],
+    "mission": "Babson College\u00e2\u0080\u0099s FLI Network leads a strategic vision to ensure that those first in their families to attend college and from reduced income backgrounds will succeed in higher education. We do so through community-building, equitable access, and a strengths-based mindset.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/FLI/"
+  },
+  {
+    "name": "Frank & Eileen\u00e2\u0084\u00a2 Institute for Women and Allies",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/frankandeileeninstitute/"
+  },
+  {
+    "name": "Fraternity & Sorority Life",
+    "categories": [
+      "Professional",
+      "Social"
+    ],
+    "tags": [
+      "professional",
+      "social"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/FSL/"
+  },
+  {
+    "name": "Game-On Club",
+    "categories": [
+      "Community",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "community"
+    ],
+    "mission": "Our mission is to create a welcoming and inclusive community where members can come together to enjoy a diverse selection of board games. We strive to provide opportunities for members to learn new games, share their knowledge and skills, and build connections with others who share their passion for board gaming. We believe in fostering a supportive and collaborative atmosphere that encourages tea",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/GOC/"
+  },
+  {
+    "name": "Garden Club",
+    "categories": [
+      "Community",
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social",
+      "community"
+    ],
+    "mission": "Gather garden enthusiasts at Babson College by hosting educational, fun, hands-on workshops centered around gardening and outdoor appreciation.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BGC/"
+  },
+  {
+    "name": "Glavin Office of International Education",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Glavin/"
+  },
+  {
+    "name": "Habitat for Humanity",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "Our organization seeks to eliminate substandard housing and homelessness from the world and to make decent shelter a matter of conscience and action. We will help to develop homes and communities in which people can live and grow. Babson College's chapter of Habitat for Humanity hopes to work together with students, faculty, staff, and other members of the Babson community to accomplish these goal",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/HFH/"
+  },
+  {
+    "name": "Healthy Living Tower",
+    "categories": [],
+    "tags": [],
+    "mission": "Healthy Living Tower, also known as H-Tower, is a special-interest housing organization that aims to support Babson community members who wish to live a healthy lifstyle.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BabsonHTower/"
+  },
+  {
+    "name": "Hindu Student Association",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Religious",
+      "Social"
+    ],
+    "tags": [
+      "religious",
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "To foster a community of Hinduism at Babson College",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/HSA/"
+  },
+  {
+    "name": "Hispanic Student Union",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "Babson's Hispanic Student Union is an official place for us to foster community on campus, allowing us to both learn and showcase our cultures while leading events to include all of Babson. Our organization creates an environment where different generations of Hispanic students can network with one another and have a safe space to share.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/HSU/"
+  },
+  {
+    "name": "Hong Kong Student Association",
+    "categories": [
+      "Cultural"
+    ],
+    "tags": [
+      "cultural"
+    ],
+    "mission": "HKSA's mission is to encourage interest and promote Hong Kong's culture among students here at Babson.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/HKSA/"
+  },
+  {
+    "name": "Institute for Social Innovation",
+    "categories": [
+      "Community"
+    ],
+    "tags": [
+      "community"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/ISI/"
+  },
+  {
+    "name": "Interfraternity Council (IFC)",
+    "categories": [],
+    "tags": [],
+    "mission": "The IFC provides for the longevity, wellbeing, advancement, and success of its constituent organizations by acting as a collective voice for Babson fraternities, facilitating the livelihood and improvement of each Fraternity as well as the fraternity system as a whole, and promoting positive relations among and between fraternities and Babson College.\n\nApply to be on the Executive Board! https://f",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/IFC/"
+  },
+  {
+    "name": "Intramural Badminton Club",
+    "categories": [
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation"
+    ],
+    "mission": "Our mission is to provide a space where anyone can pick up a racket, play badminton, and have a good time. Whether you\u00e2\u0080\u0099re new to the sport or have years of experience, you\u00e2\u0080\u0099re welcome here.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/IBC/"
+  },
+  {
+    "name": "Japanese International Circle",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "JIC prides itself on its mission to share Japanese culture with the Babson community and further enrich its cultural diversity.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/JIC/"
+  },
+  {
+    "name": "Kappa Kappa Gamma \u00e2\u0080\u0093 \u00e2\u0095\u00ac\u00c3\u009c\u00e2\u0095\u00ac\u00c3\u009c\u00e2\u0095\u00ac\u00c3\u00b4",
+    "categories": [
+      "Greek Letter Fraternities and Sororities"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities"
+    ],
+    "mission": "Kappa Kappa Gamma is a women's organization that aims to empower our members to be the best version of themselves in all facets of life. We place immense value on tradition, leadership, academics, philanthropy, and most importantly friendship. Through our academic support systems, philanthropy events, and fun sisterhood activities, we ensure that every sister has an opportunity to flourish and gro",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/KKG/"
+  },
+  {
+    "name": "Korean Student Association",
+    "categories": [],
+    "tags": [],
+    "mission": "Our mission is to create a welcoming and inclusive environment that embraces the diverse backgrounds of both Korean Americans and Korean International students. We strive to provide a community where students can connect and grow with one another during their years at Babson.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/KSA/"
+  },
+  {
+    "name": "Latin American Student Organization",
+    "categories": [
+      "Cultural"
+    ],
+    "tags": [
+      "cultural"
+    ],
+    "mission": "The Latin American Student Organization is Babson College's Undergraduate Hispanic and Latino organization. Our mission is to empower Latin American students by fostering cultural pride, academic excellence, and community engagement. Through inclusive events, educational initiatives, and advocacy, we strive to create a vibrant, supportive campus environment that celebrates diversity and promotes u",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/laso2/"
+  },
+  {
+    "name": "Law Society",
+    "categories": [
+      "Academic",
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "academic",
+      "social",
+      "community"
+    ],
+    "mission": "The Babson Law Society helps students explore the legal world and how it connects to business and entrepreneurship. We\u00e2\u0080\u0099re building an inclusive, engaging community where students can learn about law in real-world contexts, discover career paths, and develop the tools to think critically about how legal acumen benefits entrepreneurs.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/LAW/"
+  },
+  {
+    "name": "Men's Club Ice Hockey",
+    "categories": [
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation"
+    ],
+    "mission": "Babson Men's Club Hockey is an organization that allows students to continue playing the game they love.  Babson Club Hockey - the undisputed champions of the world. Undefeated in the 2012-2013 season and back-to-back Wormpot Champions in the Springs of 2013 and 2014.  Won 2014, 2016, and 2019 Octoberfest Championship. The program is stress-free and about fun, but also about competing hard. When i",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/MCIH/"
+  },
+  {
+    "name": "Men's Club Lacrosse",
+    "categories": [
+      "Community",
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social",
+      "community"
+    ],
+    "mission": "To foster a fun and competitive environment for those who love the game of lacrosse.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BMCL/"
+  },
+  {
+    "name": "Metropoulos Institute for Technology and Entrepreneurship",
+    "categories": [
+      "Academic",
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "academic",
+      "professional",
+      "community"
+    ],
+    "mission": "What is MiTE? Founded in 2024, Babson's C. Dean Metropoulos Institute for Technology and Entrepreneurship (MiTE) represents Babson's commitment to shaping the future of business by integrating advancements in emerging technology and AI with entrepreneurial education. \n\nWhat is MiTE's focus? MiTE focuses on scaling innovation across the industrial tech ecosystem, including consumer goods, manufactu",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/MITE/"
+  },
+  {
+    "name": "Middle Eastern and North African Association",
+    "categories": [
+      "Cultural"
+    ],
+    "tags": [
+      "cultural"
+    ],
+    "mission": "Fostering a community where Middle Eastern and North African (MENA) students can connect, celebrate their cultures, and build meaningful networks.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/MENAA/"
+  },
+  {
+    "name": "New Student Orientation",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "The Orientation program helps you adjust to the Babson lifestyle and eases the transition into college by providing information and answers to any academic, personal, and social questions.\n\nOrientation is the first experience you will have with your new classmates. Our staff, faculty, and current students will be available throughout the program to help guide and advise. We hope that through the O",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/NSO/"
+  },
+  {
+    "name": "Office of Belonging and Inclusion",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/OBI/"
+  },
+  {
+    "name": "Office of Student Engagement",
+    "categories": [],
+    "tags": [],
+    "mission": "We're here to help students make meaning out of their experience at Babson College. Whether students are looking to connect with others, explore new interests, or grow as a leader, we are here to support. Through inclusive and creative programming, one-on-one advising, and leadership opportunities, we support students in building community and discovering passions. These experiences empowers stude",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/OSE/"
+  },
+  {
+    "name": "Office of the President",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/OTP/"
+  },
+  {
+    "name": "Origins of Necessary Equality",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Professional",
+      "Social"
+    ],
+    "tags": [
+      "professional",
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "Origins for Necessary Equality (ONE) aims to promote an environment where individuals from various origins can come together and share a once-in-a-lifetime experience in a community that supports each member and the culture that they represent. ONE is an organization dedicated to spreading cultural education, awareness, and tolerance within the Babson community and we strive to recruit members who",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/ONE/"
+  },
+  {
+    "name": "Peers on Wellness",
+    "categories": [
+      "Community"
+    ],
+    "tags": [
+      "community"
+    ],
+    "mission": "Peers On Wellness (POW) is a student leadership program devoted to promoting health and educating fellow Babson students on a range of wellness topics, such as alcohol and other drugs, sexual assault prevention and response, sexual health, and mental wellbeing. POWs are educators, leaders, role models, and resources to the Babson community.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/POW/"
+  },
+  {
+    "name": "Phi Delta Theta",
+    "categories": [
+      "Community",
+      "Greek Letter Fraternities and Sororities",
+      "Social"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "social",
+      "sororities",
+      "fraternities",
+      "community"
+    ],
+    "mission": "Phi Delta Theta's mission is to build a strong community on campus through various philanthropic and brotherhood events.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/PDT/"
+  },
+  {
+    "name": "Phi Gamma Nu",
+    "categories": [
+      "Greek Letter Fraternities and Sororities",
+      "Professional"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities",
+      "professional"
+    ],
+    "mission": "The purpose of Phi Gamma Nu is to intensify a passion of business within the members, while at the same time strengthening the bond within the brotherhood as the years progress. This will correspond with the three pillars of Phi Gamma Nu: Professionalism, Philanthropy, and Community.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/PGN/"
+  },
+  {
+    "name": "Product, Building, & Jammin",
+    "categories": [],
+    "tags": [],
+    "mission": "Our mission is\u00e2\u0080\u00a6\n\n1. Growth \u00e2\u0080\u0094 to provide resources and opportunities to foster growth in technical product design, development, and management. Resources will come through the mentorship of alumni in those fields and workshops from our members.\n\n2. Network \u00e2\u0080\u0094 to expand and connect a network of Babson students, alumni, and faculty looking to join, explore, or grow in technical product design, d",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/PBJ/"
+  },
+  {
+    "name": "Project W",
+    "categories": [
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "professional",
+      "community"
+    ],
+    "mission": "Project W aims to bring students from the Babson, Olin, and Wellesley (BOW) colleges to collaborate on innovative projects and create meaningful connections.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/PWB/"
+  },
+  {
+    "name": "Religious & Spiritual Life",
+    "categories": [
+      "Community",
+      "Cultural",
+      "Religious"
+    ],
+    "tags": [
+      "religious",
+      "cultural",
+      "community"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/RSL/"
+  },
+  {
+    "name": "Residence Life",
+    "categories": [],
+    "tags": [],
+    "mission": "The mission of Residence Education is to develop safe and inclusive residential campus communities.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/ResLife/"
+  },
+  {
+    "name": "Scholars of Finance",
+    "categories": [
+      "Academic",
+      "Community",
+      "Professional",
+      "Social"
+    ],
+    "tags": [
+      "academic",
+      "professional",
+      "social",
+      "community"
+    ],
+    "mission": "Inspiring Character & Integrity in the Finance Leaders of Tomorrow",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/SoF/"
+  },
+  {
+    "name": "Semillas Society",
+    "categories": [],
+    "tags": [],
+    "mission": "We are committed to building a strong network among first-generation college students by creating opportunities for connection, guidance, and professional growth. Through mentorship, conversations with first-gen entrepreneurs and alumni, plus career-focused workshops and resources, we help students navigate college with greater confidence. Our mission is also to extend that support beyond our in-p",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Semillas/"
+  },
+  {
+    "name": "Senior Class Committee",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/SCC/"
+  },
+  {
+    "name": "Sigma Kappa",
+    "categories": [
+      "Greek Letter Fraternities and Sororities"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities"
+    ],
+    "mission": "Sigma Kappa Sorority's mission is to foster lifelong connection in sisterhood while being true to our founding as an intellectual and social women's sorority. Through mutual support and respect, we inspire all members to lead a life of purpose.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/SigKap/"
+  },
+  {
+    "name": "Sigma Phi Epsilon",
+    "categories": [
+      "Greek Letter Fraternities and Sororities"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities"
+    ],
+    "mission": "Sigma Phi Epsilon was founded at Richmond College, now the University of Richmond, on November 1, 1901, on the Cardinal Principles: Virtue, Diligence, and Brotherly Love. Today, the Fraternity has grown to more than 280,000 lifetime members, including over 14,000 undergraduates on 241 campuses in the United States. SigEp is currently the largest fraternity in terms of undergraduate enrollment.\n\nTh",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/SigEp/"
+  },
+  {
+    "name": "Sister Circle",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "\u00e2\u0080\u009cThe Babson Sister Circle serves as a safe and inclusive atmosphere for all Black women to network, build strong relationships, and guide each other on their paths to success.\u00e2\u0080\u009d",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/TSC/"
+  },
+  {
+    "name": "Stephen D. Cutler Center for Investments and Finance",
+    "categories": [
+      "Professional"
+    ],
+    "tags": [
+      "professional"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Cutler/"
+  },
+  {
+    "name": "Student Advising & Success",
+    "categories": [
+      "Community"
+    ],
+    "tags": [
+      "community"
+    ],
+    "mission": "Through advising, we work collaboratively with the Babson community to empower, educate, and support students from matriculation to graduation. Utilizing a holistic approach, we encourage students to discover, explore, and focus their goals. We facilitate the process of self-awareness, decision making, and responsibility to drive student success.\n\nCourse registration questions? See our Student Adv",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/SAS/"
+  },
+  {
+    "name": "Student Government Association",
+    "categories": [
+      "Community",
+      "Student Government",
+      "Community Leadership Team"
+    ],
+    "tags": [
+      "student",
+      "team",
+      "government",
+      "leadership",
+      "community"
+    ],
+    "mission": "To identify and represent student interests, promote undergraduate student participation in the overall policy and decision-making processes of the College, enhance the quality and scope of education, and promote the general welfare of the student body. CODEWORD: AND",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/SGA/"
+  },
+  {
+    "name": "Students Against Gravity Improv",
+    "categories": [
+      "Arts",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "arts"
+    ],
+    "mission": "Students Against Gravity Improv aims to foster public speaking skills through the practice of improv comedy.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/SAG/"
+  },
+  {
+    "name": "Students of Caribbean Ancestry",
+    "categories": [
+      "Academic",
+      "Community",
+      "Cultural",
+      "Social"
+    ],
+    "tags": [
+      "academic",
+      "social",
+      "cultural",
+      "community"
+    ],
+    "mission": "This organization stands for threefold:\nstrive to promote political and cultural awareness among all students of Caribbean descent. We advocate for social, educational, political, and cultural change. \ncreate a brave and accepting space for students of the Caribbean diaspora, and welcome all people to be in alliance with our organization. \nexemplify excellence through academics, service, creativit",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/SOCA/"
+  },
+  {
+    "name": "TEDx Babson College",
+    "categories": [
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "professional",
+      "community"
+    ],
+    "mission": "The mission of TEDxBabsonCollege is to provide a platform for speakers that have \"Ideas worth spreading.\" Our audience is the Babson College students, faculty and alumni along with surrounding local communities. Our goal is to ignite curiosity, engage in conversation and explore new ideas. We organize an annual event with about 10-15 speakers, including faculty, a student, and alumni, and have mor",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/TEDxBC/"
+  },
+  {
+    "name": "TEST Blank School",
+    "categories": [
+      "Academic",
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "academic",
+      "professional",
+      "community"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/BlankSchool/"
+  },
+  {
+    "name": "The Babson Viridian",
+    "categories": [],
+    "tags": [],
+    "mission": "The Babson Viridian serves as a vital communication/publishing tool that enriches our students\u00e2\u0080\u0099 college experience, enhances community, and contributes to a more informed and connected campus.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/TBV/"
+  },
+  {
+    "name": "The Kerry Murphy Healy Center for Health Innovation and Entrepreneurship",
+    "categories": [],
+    "tags": [],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/KMH/"
+  },
+  {
+    "name": "Theta Chi",
+    "categories": [
+      "Greek Letter Fraternities and Sororities"
+    ],
+    "tags": [
+      "and",
+      "letter",
+      "greek",
+      "sororities",
+      "fraternities"
+    ],
+    "mission": "Theta Chi at Babson is a brotherhood of Resolute Men, dedicated to leadership, service, and lifelong excellence. Through The Assisting Hand, we commit to strengthening our campus, community, and each other. We strive for academic achievement, professional growth, and unwavering brotherhood, ensuring every member leaves a lasting impact.\n\nWe lead. We serve. We grow\u00e2\u0080\u0094together!",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Theta/"
+  },
+  {
+    "name": "Threads and Friends",
+    "categories": [
+      "Community",
+      "Social"
+    ],
+    "tags": [
+      "social",
+      "community"
+    ],
+    "mission": "Our mission is to build a creative community where students can explore hands-on crafts like crocheting, knitting, embroidery, origami, bracelet making, and handmade d\u00c3\u00a9cor. We aim to provide a fun and relaxed space to learn new skills, share ideas, and create unique pieces together\u00e2\u0080\u0094whether for personal use, gifting, or simply the joy of making.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/TaF/"
+  },
+  {
+    "name": "Undergraduate Center for Career Development",
+    "categories": [
+      "Professional"
+    ],
+    "tags": [
+      "professional"
+    ],
+    "mission": "",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/CCD/"
+  },
+  {
+    "name": "Undergraduate Professional Accelerator Fund",
+    "categories": [
+      "Academic"
+    ],
+    "tags": [
+      "academic"
+    ],
+    "mission": "The Undergraduate Professional Accelerator Fund provides funding for undergraduate students to pursue professional and personal development opportunities outside of Babson College.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/Accelerator/"
+  },
+  {
+    "name": "Weissman Foundry",
+    "categories": [
+      "Academic",
+      "Arts",
+      "Community",
+      "Professional"
+    ],
+    "tags": [
+      "academic",
+      "professional",
+      "arts",
+      "community"
+    ],
+    "mission": "The Weissman Foundry is Babson\u00e2\u0080\u0099s hands-on prototyping hub, open to all Babson, Olin, and Wellesley students. We provide the tools, materials, and guidance to help students bring ideas to life\u00e2\u0080\u0094whether for a class, a venture, or personal exploration. Our mission is to make early-stage innovation accessible to everyone, fostering a culture of experimentation, iteration, and problem-solving.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/weissmanfoundry/"
+  },
+  {
+    "name": "Wellness and Prevention Services",
+    "categories": [],
+    "tags": [],
+    "mission": "Wellness & Prevention Services supports population-level health, wellbeing, and safety through an evidence-based, environmental, community-oriented, strategic prevention portfolio that is grounded in harm reduction, health promotion, peer education, and direct services.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/WPS/"
+  },
+  {
+    "name": "Women Giving Back",
+    "categories": [],
+    "tags": [],
+    "mission": "Women Giving Back is an organization dedicated to supporting active women leaders on the Babson campus in an effort to encourage their continuous positive involvement within the community and in particular to increase the level of commitment on campus and in the community to aiding people in need. We are also a special interest housing community here on campus. If you would like to learn more abou",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/WGB/"
+  },
+  {
+    "name": "Women's Club Ice Hockey",
+    "categories": [
+      "Community",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "community"
+    ],
+    "mission": "The Babson Women's Club Hockey team is a really great way for women who have (or have not) played ice hockey in the past to get together and enjoy the sport. The season lasts from November to March, and we have one practice a week. Typically there are 5-6 games either home or away. It's really fun, and a great way to get involved. Everyone on the team has a blast each year!",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/WCIH/"
+  },
+  {
+    "name": "Women's Club Soccer",
+    "categories": [
+      "Community",
+      "Social",
+      "Sports / Recreation"
+    ],
+    "tags": [
+      "sports",
+      "recreation",
+      "social",
+      "community"
+    ],
+    "mission": "Babson Women's Club Soccer strives to provide Babson's female student population with the opportunity to find a community of like-minded athletes to compete locally throughout the Boston Area.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/WCS/"
+  },
+  {
+    "name": "Women's Leadership Scholar",
+    "categories": [
+      "Professional"
+    ],
+    "tags": [
+      "professional"
+    ],
+    "mission": "The Women's Leadership Scholars Program brings together a select cohort of undergraduate students recognized for their leadership potential, academic achievement, and commitment to making a meaningful impact. Scholars gain access to a robust leadership development experience designed to support their personal and professional growth throughout their time at Babson College.",
+    "memberCount": 0,
+    "meets": "",
+    "source": "belong",
+    "groupLink": "https://belong.babson.edu/womensleadership/"
   }
 ]
