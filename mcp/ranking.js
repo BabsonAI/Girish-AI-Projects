@@ -111,6 +111,13 @@ export function scoreDoc(doc, q, kind) {
     if (q.topics.includes("food") && doc.freeFood) { score += 6; why.push("free food"); }
   } else if (kind === "group") {
     score += Math.min(1.5, (doc.memberCount || 0) / 200);  // capped popularity prior
+    // Profile completeness bonus — clubs with detailed missions / meeting times rank higher
+    // on generic queries where every "Babson X" club scores equally on the name token.
+    const profileBonus =
+      Math.min(2.0, (doc.mission?.length || 0) / 120) +   // up to +2 for ~240-char mission
+      (doc.meets ? 0.4 : 0) +                             // +0.4 if meeting time is known
+      Math.min(0.6, (doc.categories?.length || 0) * 0.2); // +0.2 per category, capped at 0.6
+    score += profileBonus;
   }
 
   return { score: Math.round(score * 100) / 100, direct, matchedOn: [...new Set(why)].slice(0, 5) };
@@ -181,6 +188,9 @@ export function search(docs, query, kind, opts = {}) {
         Number(b.direct) - Number(a.direct) ||
         b.score - a.score ||
         daysForSort(a) - daysForSort(b) ||
+        // For groups: prefer clubs with a filled-out mission (more established).
+        // memberCount is 0 for all groups in the XML feed, so use profile completeness.
+        (b.mission?.length || 0) - (a.mission?.length || 0) ||
         (a.title || a.name).localeCompare(b.title || b.name)
     );
 

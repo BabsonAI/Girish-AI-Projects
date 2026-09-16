@@ -1,434 +1,1492 @@
 [
   {
-    "title": "Investment Banking Recruiting Kickoff",
-    "startsAt": "2026-09-17T22:00:00.000Z",
-    "location": "Olin Hall 220",
-    "organization": "Graduate Finance Association",
-    "description": "Timeline, resume standards, and networking expectations for fall IB recruiting. Alumni from three bulge bracket banks attend.",
-    "categories": [
-      "Finance",
-      "Career"
-    ],
-    "tags": [
-      "investment banking",
-      "recruiting",
-      "networking"
-    ],
-    "freeFood": true,
-    "source": "engage"
-  },
-  {
-    "title": "Equity Research Stock Pitch Night",
-    "startsAt": "2026-09-19T21:30:00.000Z",
-    "location": "Cutler Center",
-    "organization": "Babson Investment Management Association",
-    "description": "Four student teams pitch long positions to a panel of practicing analysts. Open to all skill levels.",
+    "title": "Value Investing Seminar - Application Deadline 09/16",
+    "startsAt": "2026-08-28T01:00:00",
+    "endsAt": "2026-09-16T23:55:00",
+    "location": "Online Event",
+    "organization": "Stephen D. Cutler Center for Investments and Finance",
+    "description": "In this two-semester seminar series, Gary Mishuris, CFA, will utilize a selection of readings from Benjamin Graham, Warren Buffett, and other authors to explore the investing philosophies and processes of successful value investors. With Gary\u2019s help, you\u2019ll be able to use the insights from the readi",
     "categories": [
       "Finance"
     ],
     "tags": [
-      "equity research",
-      "stock pitch",
-      "valuation"
+      "finance",
+      "investing",
+      "banking",
+      "workshop"
     ],
-    "freeFood": true,
-    "source": "belong"
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/CUTLER/rsvp?id=376454"
   },
   {
-    "title": "Private Equity Deal Breakdown",
-    "startsAt": "2026-09-21T21:00:00.000Z",
-    "location": "Weissman Foundry",
-    "organization": "Venture Capital & Private Equity Club",
-    "description": "Walk through a recent middle-market LBO with the deal team that executed it.",
+    "title": "Cutler Center Mentor Program - Application Deadline 09/18",
+    "startsAt": "2026-08-28T01:00:00",
+    "endsAt": "2026-09-18T23:55:00",
+    "location": "Online Event",
+    "organization": "Stephen D. Cutler Center for Investments and Finance",
+    "description": "The Cutler Center mentor program matches undergraduate and graduate students with industry professionals from across the finance industry. Mentors are paired with a student majoring in finance to enhance the student\u2019s network, help develop their career path, and provide advice, guidance, and feedbac",
+    "categories": [],
+    "tags": [
+      "networking"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/CUTLER/rsvp?id=376453"
+  },
+  {
+    "title": "AI for Investing Seminar - Application Deadline 09/16",
+    "startsAt": "2026-08-28T01:00:00",
+    "endsAt": "2026-10-16T23:55:00",
+    "location": "Online Event",
+    "organization": "Stephen D. Cutler Center for Investments and Finance",
+    "description": "This 9-week AI for Investing seminar, led by Gary Mishuris, CFA, will provide a select group of students with a strong foundation for analyzing their own investment process and building AI research tools. Students will analyze parts of their process, decide when and how to apply AI to improve it, an",
     "categories": [
       "Finance"
     ],
     "tags": [
-      "private equity",
-      "lbo",
-      "deals"
+      "finance",
+      "investing",
+      "banking",
+      "workshop"
     ],
     "freeFood": false,
-    "source": "engage"
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/CUTLER/rsvp?id=376455"
   },
   {
-    "title": "Financial Modeling Bootcamp (Session 1 of 3)",
-    "startsAt": "2026-09-22T13:00:00.000Z",
-    "location": "Malloy 201",
-    "organization": "Graduate Finance Association",
-    "description": "Three-part Excel intensive covering three-statement models, DCF, and comps. Laptop required.",
+    "title": "Blank School Welcome Back",
+    "startsAt": "2026-09-16T11:30:00",
+    "endsAt": "2026-09-16T13:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Arthur M. Blank School for Entrepreneurial Leadership",
+    "description": "Join the Arthur M. Blank School for Entrepreneurial Leadership for our annual Welcome Back Event, designed to connect undergraduate and graduate students with the people, programs, and opportunities that power entrepreneurial leadership at Babson. Meet representatives from all eight Centers & Instit",
     "categories": [
-      "Finance",
-      "Workshop"
+      "Entrepreneurs"
     ],
     "tags": [
-      "modeling",
-      "excel",
-      "valuation",
-      "dcf"
-    ],
-    "freeFood": true,
-    "source": "engage"
-  },
-  {
-    "title": "Women in Finance Mentorship Mixer",
-    "startsAt": "2026-09-24T22:30:00.000Z",
-    "location": "Reynolds Campus Center",
-    "organization": "Graduate Women in Finance",
-    "description": "Structured mentor matching with alumnae across banking, asset management, and corporate finance.",
-    "categories": [
-      "Finance",
-      "Networking"
-    ],
-    "tags": [
-      "women",
-      "mentorship",
-      "networking"
-    ],
-    "freeFood": true,
-    "source": "engage"
-  },
-  {
-    "title": "FinTech & AI in Credit Underwriting",
-    "startsAt": "2026-09-26T22:00:00.000Z",
-    "location": "Olin Hall 105",
-    "organization": "FinTech Club",
-    "description": "How lenders are deploying machine learning models in underwriting, and where regulators are pushing back.",
-    "categories": [
-      "Finance",
-      "Technology"
-    ],
-    "tags": [
-      "fintech",
-      "ai",
-      "machine learning",
-      "credit"
-    ],
-    "freeFood": false,
-    "source": "engage"
-  },
-  {
-    "title": "Real Estate Capital Markets Panel",
-    "startsAt": "2026-09-28T21:30:00.000Z",
-    "location": "Olin Hall 310",
-    "organization": "Real Estate Club",
-    "description": "Debt and equity sourcing in a higher-rate environment, with developers and REIT analysts.",
-    "categories": [
-      "Finance",
-      "Real Estate"
-    ],
-    "tags": [
-      "real estate",
-      "capital markets",
-      "reit"
-    ],
-    "freeFood": true,
-    "source": "engage"
-  },
-  {
-    "title": "Cutler Center Trading Floor Open House",
-    "startsAt": "2026-10-01T16:00:00.000Z",
-    "location": "Cutler Center",
-    "organization": "Babson Investment Management Association",
-    "description": "Drop-in Bloomberg terminal training and certification signup.",
-    "categories": [
-      "Finance",
-      "Workshop"
-    ],
-    "tags": [
-      "bloomberg",
-      "trading",
-      "terminal"
-    ],
-    "freeFood": true,
-    "source": "belong"
-  },
-  {
-    "title": "Personal Finance for Grad Students",
-    "startsAt": "2026-10-03T16:30:00.000Z",
-    "location": "Reynolds 108",
-    "organization": "Graduate Student Council",
-    "description": "Loan repayment, budgeting on a stipend, and negotiating your first post-MBA offer.",
-    "categories": [
-      "Finance",
-      "Wellness"
-    ],
-    "tags": [
-      "personal finance",
-      "loans",
-      "budgeting"
-    ],
-    "freeFood": true,
-    "source": "engage"
-  },
-  {
-    "title": "AI Build Night: Ship an Agent in 3 Hours",
-    "startsAt": "2026-09-18T23:00:00.000Z",
-    "location": "Weissman Foundry",
-    "organization": "Babson AI Society",
-    "description": "Bring a laptop and leave with a working AI agent. Mentors from the AI Fellowship on hand. No coding background required.",
-    "categories": [
-      "Technology",
-      "Workshop"
-    ],
-    "tags": [
-      "ai",
-      "agents",
-      "llm",
-      "hackathon",
-      "genai"
-    ],
-    "freeFood": true,
-    "source": "belong"
-  },
-  {
-    "title": "Machine Learning for Business Case Workshop",
-    "startsAt": "2026-09-20T22:00:00.000Z",
-    "location": "Malloy 105",
-    "organization": "Data Analytics Club",
-    "description": "Applied ML on a real retail dataset. Python basics helpful but not required.",
-    "categories": [
-      "Technology",
-      "Workshop"
-    ],
-    "tags": [
-      "machine learning",
-      "python",
-      "analytics",
-      "ai"
-    ],
-    "freeFood": false,
-    "source": "belong"
-  },
-  {
-    "title": "AI Product Teardown: What Shipped This Quarter",
-    "startsAt": "2026-09-23T23:00:00.000Z",
-    "location": "Olin Hall 118",
-    "organization": "Product Management Club",
-    "description": "PMs from three AI-native startups break down recent launches and the decisions behind them.",
-    "categories": [
-      "Technology"
-    ],
-    "tags": [
-      "product",
-      "ai",
-      "teardown"
-    ],
-    "freeFood": false,
-    "source": "engage"
-  },
-  {
-    "title": "Prompt Engineering Clinic",
-    "startsAt": "2026-09-27T21:00:00.000Z",
-    "location": "Horn Library 2nd Floor",
-    "organization": "Babson AI Society",
-    "description": "Bring a workflow you want to automate. Leave with prompts that work.",
-    "categories": [
-      "Technology",
-      "Workshop"
-    ],
-    "tags": [
-      "ai",
-      "prompt engineering",
-      "llm",
-      "genai"
-    ],
-    "freeFood": false,
-    "source": "belong"
-  },
-  {
-    "title": "Consulting Case Interview Bootcamp",
-    "startsAt": "2026-09-20T13:00:00.000Z",
-    "location": "Olin Hall 220",
-    "organization": "Babson Consulting Club",
-    "description": "Full-day casing intensive with partner-level interviewers and live feedback.",
-    "categories": [
-      "Consulting",
-      "Career"
-    ],
-    "tags": [
-      "case interview",
-      "recruiting",
-      "mbb"
-    ],
-    "freeFood": true,
-    "source": "engage"
-  },
-  {
-    "title": "Founders' Pitch Night",
-    "startsAt": "2026-09-25T22:00:00.000Z",
-    "location": "Butler Launch Pad",
-    "organization": "Entrepreneurship Club",
-    "description": "Eight student ventures pitch to a panel of angel investors. Audience vote decides the microgrant.",
-    "categories": [
-      "Entrepreneurship"
-    ],
-    "tags": [
-      "pitch",
       "startups",
-      "venture"
+      "founders",
+      "entrepreneurship",
+      "networking"
     ],
-    "freeFood": true,
-    "source": "belong"
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BSEL/rsvp?id=376449"
   },
   {
-    "title": "Climate Tech Career Panel",
-    "startsAt": "2026-09-29T21:30:00.000Z",
-    "location": "Olin Hall 105",
-    "organization": "Energy & Environment Club",
-    "description": "Operators and investors on where climate tech hiring is actually growing.",
+    "title": "Case Resources Demo: Make the Most of Your Consulting Prep At Babson!",
+    "startsAt": "2026-09-16T12:00:00",
+    "endsAt": "2026-09-16T13:00:00",
+    "location": "Online Event",
+    "organization": "Graduate Center for Career Development",
+    "description": "Not sure where to start\u2014or how to make the most of all the case interview resources available to you? Join this interactive demo to explore how to take advantage of Babson\u2019s full suite of consulting case preparation resources and support.\r\n\r\nGet a walkthrough of Marc Cosentino\u2019s virtual workshops an",
     "categories": [
-      "Sustainability",
       "Career"
     ],
     "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376457"
+  },
+  {
+    "title": "Black Graduate Club Welcome Back Mixer",
+    "startsAt": "2026-09-16T17:00:00",
+    "endsAt": "2026-09-16T20:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Black Graduate Club",
+    "description": "Whether you're just starting your graduate journey or you're back for another year, we want to see you! Join the Black Graduate Club for an evening of good food, good company, and good vibes as we kick off the new academic year.\r\n\r\nCome meet fellow grad students, reconnect with familiar faces, and g",
+    "categories": [
+      "Babson Black Graduate Club",
+      "Food",
+      "Networking",
+      "Welcome Back"
+    ],
+    "tags": [
+      "food",
+      "networking",
+      "welcome back",
+      "babson black graduate club",
+      "social"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BBGC/rsvp?id=376497"
+  },
+  {
+    "title": "The Fearless Mindset: 10 Traits of Every Successful Entrepreneur",
+    "startsAt": "2026-09-16T17:30:00",
+    "endsAt": "2026-09-16T20:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Babson Miami",
+    "description": "Join Babson College Miami and the Economic Club of Miami for an evening with Francisco Gonzalez, Executive Director of the Economic Club of Miami and author of \"The American Dream is a Terrible Thing to Waste\" and \"The Heart of the American Dream.\" Francisco explores ten defining traits of successfu",
+    "categories": [
+      "Miami BL MBA"
+    ],
+    "tags": [
+      "miami bl mba",
+      "guest speaker event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/MIA/rsvp?id=376456"
+  },
+  {
+    "title": "TopGolf",
+    "startsAt": "2026-09-16T18:00:00",
+    "endsAt": "2026-09-16T20:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Golf Club",
+    "description": "What better way to start the academic year than a trip to TopGolf? Join us for a night of networking, fun, and of course, golf. No golf experience necessary! In fact, this is a great way to try out the sport if you've been wanting to.\r\n\r\nFood & non-alcoholic drinks will be provided. Please arrive by",
+    "categories": [],
+    "tags": [
+      "social"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/golf/rsvp?id=376488"
+  },
+  {
+    "title": "Morning Meet Up with Chamber of Commerce & Tour of Mikros Technologies",
+    "startsAt": "2026-09-17T10:00:00",
+    "endsAt": "2026-09-17T12:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Global Manufacturing Initiative",
+    "description": "https://www.greaterclaremontnh.org/2026/09/17/617499/morning-meet-up-at-mikros-technologies/\r\n\r\nEvent is unfortunately far away - 3 hours drive from Babson.   Please consider this when signing up.",
+    "categories": [],
+    "tags": [
+      "trek"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GMI/rsvp?id=376500"
+  },
+  {
+    "title": "Crafting Your Career Story",
+    "startsAt": "2026-09-17T12:15:00",
+    "endsAt": "2026-09-17T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "People remember stories more easily than plain information. So, what\u2019s your career story? In this interactive session we will discuss how to identify and craft your story to make a lasting impression on hiring managers, networking contacts and recruiters. You will have the opportunity to practice, g",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376312"
+  },
+  {
+    "title": "Cracking the Case: Case Interview Fundamentals",
+    "startsAt": "2026-09-17T15:00:00",
+    "endsAt": "2026-09-17T16:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "Master the fundamentals of case interviewing through a hands-on, learn-by-doing workshop designed to build your skills and confidence. Get practical experience building effective frameworks, tackling market sizing exercises, and developing recommendations that stand out to recruiters. Then put it al",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376458"
+  },
+  {
+    "title": "MSEL GEE Logistics Session #1 26-27",
+    "startsAt": "2026-09-18T10:00:00",
+    "endsAt": "2026-09-18T12:00:00",
+    "location": "Private Location (register to display)",
+    "organization": "Glavin Office of International Education",
+    "description": "Discuss logistics for GEE countries including booking flights, filling out roommate form, visas, etc.",
+    "categories": [],
+    "tags": [
+      "meeting"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GLAVIN/rsvp?id=376478"
+  },
+  {
+    "title": "Fresh Check Day",
+    "startsAt": "2026-09-18T11:00:00",
+    "endsAt": "2026-09-18T13:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Wellness and Prevention Services",
+    "description": "Mental Health interactive event with games, activities, food, prizes, farm animals, meditation techniques, and so much more!",
+    "categories": [],
+    "tags": [
+      "social"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/WPS/rsvp?id=376525"
+  },
+  {
+    "title": "Latinx/Hispanic Block Party",
+    "startsAt": "2026-09-18T13:00:00",
+    "endsAt": "2026-09-18T16:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Office of Belonging and Inclusion",
+    "description": "This annual block party celebrates the richness of Latinx and Hispanic culture through vibrant performances, fun activities, and authentic flavors. Don\u2019t miss out!",
+    "categories": [],
+    "tags": [
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BELONG/rsvp?id=376484"
+  },
+  {
+    "title": "Working Professionals Career Insights: Successful Career Change!",
+    "startsAt": "2026-09-18T13:30:00",
+    "endsAt": "2026-09-18T14:15:00",
+    "location": "Online Event",
+    "organization": "Graduate Center for Career Development",
+    "description": "Hear from Babson PT MBA \u201826 Chase Waxman - now Vice President Strategy & Growth - how he changed his career not only moving in a different industry or role but also getting closer to his long-term goal of acquiring his own business to run as CEO!\r\n\r\nWith a background in public health and working as ",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "workshop"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376303"
+  },
+  {
+    "title": "Discovering Sustainability on Campus: Know Your Campus Sustainability Tour",
+    "startsAt": "2026-09-18T14:30:00",
+    "endsAt": "2026-09-18T15:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Sustainability and Energy Club",
+    "description": "Get to know Babson\u2019s sustainability community through a guided campus tour highlighting sustainability resources, initiatives, and key spots around campus. Connect with both graduate and undergraduate students, meet others passionate about sustainability, and discover ways to get involved. We\u2019ll wra",
+    "categories": [
+      "Sustainability"
+    ],
+    "tags": [
+      "sustainability",
+      "esg",
       "climate",
-      "cleantech",
-      "esg"
+      "meeting"
     ],
     "freeFood": false,
-    "source": "belong"
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BSEC/rsvp?id=376492"
   },
   {
-    "title": "Lunar New Year Gala",
-    "startsAt": "2026-09-30T23:00:00.000Z",
-    "location": "Knight Auditorium",
-    "organization": "Asia Business Club",
-    "description": "Performances, catered dinner, and the annual red envelope raffle. Tickets required.",
-    "categories": [
-      "Cultural",
-      "Social"
-    ],
+    "title": "Welcome Back Party",
+    "startsAt": "2026-09-18T21:00:00",
+    "endsAt": "2026-09-19T02:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Latin American Club",
+    "description": "The perfect chance to kick off the semester with all the energy \u2728 See you there as we start the semester surrounded by our community. Don\u2019t miss it!",
+    "categories": [],
     "tags": [
-      "cultural",
-      "gala",
-      "celebration"
-    ],
-    "freeFood": true,
-    "source": "belong"
-  },
-  {
-    "title": "Africa Business Forum",
-    "startsAt": "2026-10-05T14:00:00.000Z",
-    "location": "Reynolds Campus Center",
-    "organization": "Africa Business Club",
-    "description": "Full-day forum on investment and entrepreneurship across African markets.",
-    "categories": [
-      "Cultural",
-      "Professional"
-    ],
-    "tags": [
-      "africa",
-      "emerging markets",
-      "forum"
-    ],
-    "freeFood": true,
-    "source": "belong"
-  },
-  {
-    "title": "Brand Strategy Workshop with a Boston Agency",
-    "startsAt": "2026-09-24T21:30:00.000Z",
-    "location": "Olin Hall 118",
-    "organization": "Babson Marketing Club",
-    "description": "Live brand positioning exercise run by a strategy director.",
-    "categories": [
-      "Marketing",
-      "Workshop"
-    ],
-    "tags": [
-      "brand",
-      "strategy",
-      "agency"
+      "social"
     ],
     "freeFood": false,
-    "source": "belong"
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/LATAM/rsvp?id=376524"
   },
   {
-    "title": "Digital Health Startup Showcase",
-    "startsAt": "2026-10-02T22:00:00.000Z",
-    "location": "Weissman Foundry",
-    "organization": "Healthcare Business Club",
-    "description": "Six Boston-area digital health founders demo and take questions.",
+    "title": "GSC Social Series: Notch Brewery Mixer",
+    "startsAt": "2026-09-19T17:00:00",
+    "endsAt": "2026-09-19T21:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Student Council",
+    "description": "Part of a social series hosted by the GSC throughout the year. The first event takes place at Notch Brewery and is open to all.",
+    "categories": [],
+    "tags": [
+      "networking"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GSC/rsvp?id=376498"
+  },
+  {
+    "title": "Growth on Autopilot: Internal AI Systems to Scale Your GTM",
+    "startsAt": "2026-09-21T17:30:00",
+    "endsAt": "2026-09-21T20:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Babson Miami",
+    "description": "This is an event from our student-led Babson Miami AI Community. We are bringing Mateo and Tadeo Acosta-Rubio, co-founders of Clave, they will break down the AI systems and workflows they built to run and scale their own GTM, and how you can set up the same for yours.\r\n\r\nMonday, September 21 | 5:30 ",
     "categories": [
-      "Healthcare"
+      "AI"
     ],
     "tags": [
-      "digital health",
-      "biotech",
-      "startups"
+      "ai",
+      "workshop"
     ],
-    "freeFood": true,
-    "source": "engage"
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/MIA/rsvp?id=376529"
   },
   {
-    "title": "OPT & Visa Navigation Session",
-    "startsAt": "2026-09-21T16:00:00.000Z",
-    "location": "Reynolds 108",
-    "organization": "Graduate International Student Association",
-    "description": "ISSS advisors walk through OPT timelines and common filing mistakes.",
+    "title": "Graduate Electives Fair",
+    "startsAt": "2026-09-22T11:30:00",
+    "endsAt": "2026-09-22T13:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Academic Services",
+    "description": "Attend the Graduate Electives Fair to speak with Babson faculty and staff to learn more about electives offered by academic divisions and experiential elective opportunities. This event is open to students from the Two-Year MBA, One-Year MBA, Part Time MBA, MSF, and MSBA programs. \r\n\r\nFor MBA studen",
+    "categories": [
+      "Academics",
+      "In-Person"
+    ],
+    "tags": [
+      "academics",
+      "in-person",
+      "fair"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GAS/rsvp?id=376499"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-09-22T12:15:00",
+    "endsAt": "2026-09-22T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376506"
+  },
+  {
+    "title": "WH Bagshaw Factory Tour",
+    "startsAt": "2026-09-23T09:30:00",
+    "endsAt": "2026-09-23T10:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Global Manufacturing Initiative",
+    "description": "https://www.whbagshaw.com/nashua/\r\n\r\nFactory tour of WH Bagshaw in Hudson, NH",
+    "categories": [],
+    "tags": [
+      "trek"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GMI/rsvp?id=376501"
+  },
+  {
+    "title": "Professional Headshots: Refresh Your Profile",
+    "startsAt": "2026-09-23T13:30:00",
+    "endsAt": "2026-09-23T15:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "Make a strong first impression with a professional profile photo! The Graduate Center for Career Development is bringing a professional photographer to campus to help you enhance your LinkedIn and Career Connect profiles with a polished, professional image.\r\n\r\nNo registration required. Stop by at yo",
+    "categories": [],
+    "tags": [
+      "meeting"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376469"
+  },
+  {
+    "title": "Building a Fintech in Three Months \u2014 Lessons from HarborLine Technology",
+    "startsAt": "2026-09-24T11:00:00",
+    "endsAt": "2026-09-24T13:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Stephen D. Cutler Center for Investments and Finance",
+    "description": "HarborLine Technology streamlines the securities-based lending process by connecting investment portfolios with banks willing to lend against them, automating collateral intelligence, simplifying documentation, and accelerating approvals using modern AI infrastructure.\r\n\r\nThis session unpacks the st",
+    "categories": [
+      "Finance",
+      "Tech",
+      "Entrepreneurs"
+    ],
+    "tags": [
+      "finance",
+      "founders",
+      "investing",
+      "banking",
+      "startups",
+      "tech",
+      "entrepreneurship",
+      "presentation"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/CUTLER/rsvp?id=376451"
+  },
+  {
+    "title": "Your Network, Your Advantage",
+    "startsAt": "2026-09-24T12:00:00",
+    "endsAt": "2026-09-24T13:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "Step into the power of your network! In this interactive session, you\u2019ll learn practical strategies to build authentic connections, strengthen your professional presence, and turn your network into a strategic advantage for your career growth. Leave the session prepared to approach networking with c",
     "categories": [
       "Career"
     ],
     "tags": [
-      "international",
-      "opt",
-      "visa"
-    ],
-    "freeFood": true,
-    "source": "engage"
-  },
-  {
-    "title": "Wellness Week: Therapy Dogs & Free Coffee",
-    "startsAt": "2026-09-16T15:00:00.000Z",
-    "location": "Horn Library Lobby",
-    "organization": "Real Talk Mental Health Collective",
-    "description": "Drop in between classes. Therapy dogs, espresso bar, and stress kits.",
-    "categories": [
-      "Wellness",
-      "Social"
-    ],
-    "tags": [
-      "wellness",
-      "destress",
-      "free food"
-    ],
-    "freeFood": true,
-    "source": "belong"
-  },
-  {
-    "title": "Supply Chain Simulation Challenge",
-    "startsAt": "2026-10-04T21:00:00.000Z",
-    "location": "Malloy 201",
-    "organization": "Babson Analytics & Operations Club",
-    "description": "Team-based operations simulation with a prize for the lowest total landed cost.",
-    "categories": [
-      "Professional",
-      "Workshop"
-    ],
-    "tags": [
-      "operations",
-      "supply chain",
-      "simulation"
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
     ],
     "freeFood": false,
-    "source": "engage"
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376459"
   },
   {
-    "title": "Robotics Open Build",
-    "startsAt": "2026-09-19T17:00:00.000Z",
-    "location": "Weissman Foundry",
-    "organization": "Babson Robotics & Automation Club",
-    "description": "Open lab session. Computer vision demo running on the new arm.",
+    "title": "Graduate Student Leader Training (In Person)",
+    "startsAt": "2026-09-24T15:30:00",
+    "endsAt": "2026-09-24T17:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Office of Graduate Student Life and Leadership",
+    "description": "Graduate Student Leader Training\r\n\r\nThis training is mandatory for all new and returning Graduate Student Leaders.\r\n\r\nDuring this training, we will walk through the event planning process at Babson, including important policies, procedures, and resources you will need to successfully plan and execut",
     "categories": [
-      "Technology"
+      "Grad Student Life & Leadership"
     ],
     "tags": [
-      "robotics",
-      "automation",
-      "hardware",
-      "ai"
+      "grad student life & leadership",
+      "training"
     ],
     "freeFood": false,
-    "source": "belong"
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GLL/rsvp?id=376434"
+  },
+  {
+    "title": "Business Brokerage as a Career: Is Owning a Franchise Right for You?",
+    "startsAt": "2026-09-24T16:00:00",
+    "endsAt": "2026-09-24T17:00:00",
+    "location": "Online Event",
+    "organization": "Graduate Center for Career Development",
+    "description": "Hear from the CEO of Murphy Business Sales What Does a Business Broker Do? And Learn Whether a Business Brokerage Franchise Is Right for You.\r\n\r\nBusiness brokers facilitate the transfer of privately held businesses between buyers and sellers.\r\n\r\nUnlike investment bankers who focus on public markets ",
+    "categories": [],
+    "tags": [
+      "meeting"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376480"
+  },
+  {
+    "title": "Workshop: Ceramics Underglazing (Registration opens September 10th)",
+    "startsAt": "2026-09-24T17:00:00",
+    "endsAt": "2026-09-24T19:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Ceramics Underglazing \r\nThursday, September 24, 5:00pm - 7:00pm \r\nBabson Ceramics Studio, Trim 221\r\nFREE. Registration opens September 10 \r\n\r\nCome explore glaze painting on bisqueware pottery. Learn how to layer and blend colors, try out different decorating techniques, and give your pieces real per",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376318"
+  },
+  {
+    "title": "MKS Instruments - Factory Tour",
+    "startsAt": "2026-09-25T09:00:00",
+    "endsAt": "2026-09-25T10:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Global Manufacturing Initiative",
+    "description": "https://www.mks.com/\r\n\r\nA factory tour of MKS Instruments in Andover, MA.",
+    "categories": [],
+    "tags": [
+      "trek"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GMI/rsvp?id=376502"
+  },
+  {
+    "title": "The Babson Network Effect",
+    "startsAt": "2026-09-25T16:00:00",
+    "endsAt": "2026-09-25T18:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Arthur M. Blank School for Entrepreneurial Leadership",
+    "description": "he Babson Network Effect (formerly Networking by Industry) is an interactive networking experience hosted by the Arthur M. Blank School for Entrepreneurial Leadership that showcases the power of the Babson community.\r\n\r\nThrough expert-led panels and industry-specific networking, attendees can engage",
+    "categories": [],
+    "tags": [
+      "networking"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BSEL/rsvp?id=376448"
+  },
+  {
+    "title": "Cruickshank 5K for Service",
+    "startsAt": "2026-09-26T09:00:00",
+    "endsAt": "2026-09-26T11:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Office of Graduate Student Life and Leadership",
+    "description": "Babson's 5K run and walk for service, Saturday September 26 at 9:00 AM in Lamere Plaza. Part of Back to Babson and Family & Friends Weekend. Race proceeds fund student-led service and volunteer initiatives. Grad students can run, walk, or volunteer. \r\n\r\nFor those ready to jump in as a volunteer, ple",
+    "categories": [
+      "Community",
+      "Babson Alumni"
+    ],
+    "tags": [
+      "community",
+      "babson alumni",
+      "community service"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GLL/rsvp?id=376491"
+  },
+  {
+    "title": "Break Into Consulting: Panel Discussion",
+    "startsAt": "2026-09-28T15:00:00",
+    "endsAt": "2026-09-28T16:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "Curious what it\u2019s really like to work in consulting? Hear directly from consulting professionals as they share their experiences, insights, and advice on breaking into the industry. Get an inside look at what consultants actually do, the skills that matter most, how they navigated their own career p",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376460"
+  },
+  {
+    "title": "Johnson & Johnson - Leadership Development Programs",
+    "startsAt": "2026-09-28T18:30:00",
+    "endsAt": "2026-09-28T20:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "Learn directly from J&J company representatives about their leadership development programs!\r\n\r\nYou will learn more about the different parts of the enterprise and how the unique opportunities within the finance function; think partnering with R&D, supply chain, commercial, and more. We\u2019ll also walk",
+    "categories": [],
+    "tags": [
+      "presentation"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376482"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-09-29T12:15:00",
+    "endsAt": "2026-09-29T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376507"
+  },
+  {
+    "title": "Global Film: It Was Just an Accident",
+    "startsAt": "2026-09-29T19:00:00",
+    "endsAt": "2026-09-29T21:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Global Film: It Was Just an Accident \r\nDirected by Jafar Panahl \r\nTuesday, September 29, 7:00pm \r\nCarling-Sorenson Theatre\r\nFREE and open to the public.  Registration encouraged.  Walk-ins welcome. \r\n\r\nJafar Panahi\u2019s It Was Just an Accident is a searing, darkly funny moral thriller. When Vahid, a on",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376424"
+  },
+  {
+    "title": "Ace Your Intro: Prepare. Participate. Progress.",
+    "startsAt": "2026-09-30T16:30:00",
+    "endsAt": "2026-09-30T18:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "\u201cTell me about yourself.\u201d\r\n\r\nIt\u2019s one of the most common questions you\u2019ll encounter in networking conversations and interviews. How do you answer it in a way that makes a strong first impression?\r\n\r\nAce Your Intro is an interactive practice and coaching experience designed to help new graduate stude",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376461"
+  },
+  {
+    "title": "Competitive Advantage: Strategies for Landing Your Next Job",
+    "startsAt": "2026-10-01T12:00:00",
+    "endsAt": "2026-10-01T12:45:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "This session is about demystifying the job search, making professional connections, and graduate career outcomes. Don't miss it!\r\n\r\nPresenters: Jessica Chance (Director of Grad CCD), Margaret Jones (Senior Associate Director, Career Advisor) & Steve Lewis (Senior Associate Director, Employer Engagem",
+    "categories": [
+      "Career",
+      "Grad CCD"
+    ],
+    "tags": [
+      "internship",
+      "networking",
+      "career",
+      "recruiting",
+      "grad ccd",
+      "presentation"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376313"
+  },
+  {
+    "title": "Show Her the Money: Venture Capital 101",
+    "startsAt": "2026-10-02T09:30:00",
+    "endsAt": "2026-10-02T16:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Frank & Eileen\u2122 Center for Women's Entrepreneurial Leadership (F&E CWEL)",
+    "description": "Venture Capital 101 is Show Her the Money\u2019s College Educational Experience, bringing venture capital into the classroom.\r\n\r\nThis one day commitment introduces students to venture capital as a career, funding, and investment path - bringing the concepts to life through powerful storytelling that make",
+    "categories": [
+      "Finance",
+      "Entrepreneurs"
+    ],
+    "tags": [
+      "finance",
+      "founders",
+      "investing",
+      "banking",
+      "startups",
+      "entrepreneurship",
+      "training"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/CWEL/rsvp?id=376487"
+  },
+  {
+    "title": "The Hidden Life of Stage Directions: Language, Law, and Theatre",
+    "startsAt": "2026-10-02T12:00:00",
+    "endsAt": "2026-10-02T14:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "The Hidden Life Of Stage Directions: Language, Law, and Theatre \r\nWorkshop with Bess Rowen \r\nFriday, October 2, 12:00pm \r\nSorenson Black Box \r\nFREE. Registration Required. \r\n\r\nStage directions do more than tell actors where to stand\u2014they help create entire worlds. In this interactive workshop, theat",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376315"
+  },
+  {
+    "title": "As AI Transforms the Workplace, What Remains Uniquely Human and What Doesn't?",
+    "startsAt": "2026-10-02T16:30:00",
+    "endsAt": "2026-10-02T18:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Arthur M. Blank School for Entrepreneurial Leadership",
+    "description": "Join Babson College thought leader Tom Davenport and Arthur M. Blank School for Entrepreneurial Leadership senior advisor Paul Cheek for a timely conversation on the future of business in an AI-driven world. While both see AI fundamentally reshaping organizations, they offer distinct perspectives on",
+    "categories": [
+      "Metropoulos Institute",
+      "Networking",
+      "AI"
+    ],
+    "tags": [
+      "metropoulos institute",
+      "networking",
+      "ai",
+      "presentation"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BSEL/rsvp?id=376522"
+  },
+  {
+    "title": "Navigating OPT, CPT & AT Authorizations with Latest Updates",
+    "startsAt": "2026-10-06T12:00:00",
+    "endsAt": "2026-10-06T13:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "The Babson Undergraduate and Graduate Centers of Career Development (CCD), in collaboration with International Student and Scholar Services (ISSS), invite you to an engaging session focused on work authorizations for F-1 & J-1 students.\r\nISSS will provide an overview of U.S. work authorizations, inc",
+    "categories": [],
+    "tags": [
+      "meeting"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376467"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-10-06T12:15:00",
+    "endsAt": "2026-10-06T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376508"
+  },
+  {
+    "title": "An Evening with Sarah Ruhl",
+    "startsAt": "2026-10-06T19:00:00",
+    "endsAt": "2026-10-06T21:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "An Evening With Sarah Ruhl \r\nTuesday, October 6th, 7:00pm\r\nCarling-Sorenson Theatre \r\nFREE to Babson students, staff, and faculty\r\n$10 Non-Babson Student Admission\r\n$15 Non-Babson Faculty/Staff Academic Admission\r\n$20 General Admission (Limited availability)\r\nRegistration required at babsonarts.org\r",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376429"
+  },
+  {
+    "title": "Crafting Your Career Story",
+    "startsAt": "2026-10-07T12:15:00",
+    "endsAt": "2026-10-07T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "People remember stories more easily than plain information. So, what\u2019s your career story? In this interactive session we will discuss how to identify and craft your story to make a lasting impression on hiring managers, networking contacts and recruiters. You will have the opportunity to practice, g",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376462"
+  },
+  {
+    "title": "2026 Sales Leadership Summit - Pitch Workshop & Executive Feedback",
+    "startsAt": "2026-10-08T15:00:00",
+    "endsAt": "2026-10-08T17:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "Practice Your Pitch Skills and Network with Sales Executives. \r\n\r\nObtain value feedback on your pitch skills and make industry connections. Receive direct feedback from professionals in the Sales Industry who are attending Babson\u2019s 3rd Annual Sales Leadership Summit and get a free ticket to this pai",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376304"
+  },
+  {
+    "title": "Meet Your Mentors & Pizza Social Night | Miami M'27 & M'28",
+    "startsAt": "2026-10-08T18:00:00",
+    "endsAt": "2026-10-08T20:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Babson Miami",
+    "description": "Meet the mentors behind the new Babson Miami MBA Mentorship Program, then stay\r\nto connect with your fellow Miami MBA students over pizza.\r\n\r\nOpen to both the M'27 and M'28 cohorts. Join us for a panel with entrepreneurs\r\nand operators who have built, scaled, and led across very different paths.\r\n\r\n",
+    "categories": [
+      "Social",
+      "Miami BL MBA"
+    ],
+    "tags": [
+      "social",
+      "networking",
+      "miami bl mba",
+      "social"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/MIA/rsvp?id=376309"
+  },
+  {
+    "title": "Rocket Pitch \u2014 Application Deadline 10/09",
+    "startsAt": "2026-10-09T11:00:00",
+    "endsAt": "2026-10-09T11:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Arthur M. Blank Center for Entrepreneurship",
+    "description": "Our signature pitch event takes place on Thursday, November 12. Rocket Pitch is fast-paced and exciting, with quick 3-minute pitches happening simultaneously in different rooms. You are invited to apply to pitch your venture\u2013all business stages are welcome, including ideas!\r\n\r\n\ufeffThe deadline to apply",
+    "categories": [
+      "Entrepreneurs",
+      "Pitching"
+    ],
+    "tags": [
+      "startups",
+      "founders",
+      "pitching",
+      "entrepreneurship",
+      "presentation"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BLANK/rsvp?id=376485"
+  },
+  {
+    "title": "Women's MBA Luncheon - Connect, Inspire, and Learn about the Frank & Eileen\u2122 Institute for Women and Allies",
+    "startsAt": "2026-10-09T12:30:00",
+    "endsAt": "2026-10-09T13:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Babson Miami",
+    "description": "Babson Women MBA Luncheon - Connect, Inspire, and Learn with the Frank & Eileen\u2122 Institute for Women and Allies\r\n\r\nJoin Prof. Tina Opie, Carla Curiel and special speaker Angelica Fuentes for an exclusive Women's MBA Luncheon. We'll have the opportunity to hear Angelica's story with our fellow MBA st",
+    "categories": [
+      "CWEL",
+      "Miami BL MBA"
+    ],
+    "tags": [
+      "miami bl mba",
+      "cwel",
+      "luncheon"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/MIA/rsvp?id=376308"
+  },
+  {
+    "title": "Lunch & Learn - Mitch Modell",
+    "startsAt": "2026-10-11T12:30:00",
+    "endsAt": "2026-10-11T13:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Babson Miami",
+    "description": "Join us for a Lunch & Learn with Mitch Modell, former CEO of Modell's Sporting Goods.\r\n\r\nMitch will share firsthand lessons on resilience, reinvention, and the power of networking, drawn from decades of leading one of New York's most recognizable retail brands.\r\n\r\nA rare chance to hear directly from",
+    "categories": [
+      "Miami BL MBA"
+    ],
+    "tags": [
+      "miami bl mba",
+      "guest speaker event"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/MIA/rsvp?id=376311"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-10-13T12:15:00",
+    "endsAt": "2026-10-13T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376509"
+  },
+  {
+    "title": "Graduate Fall Career Fair",
+    "startsAt": "2026-10-15T15:00:00",
+    "endsAt": "2026-10-15T17:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "STUDENT REGISTRATION OPENING SEPTEMBER 1ST.\r\n\r\nGrad CCD's Fall Graduate Career Fair is open to all current graduate students!\r\n\r\nAt this fair, you will have the opportunity to network with hiring managers and recruiters across multiple industries. While some companies will be recruiting for full-tim",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "fair"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376294"
+  },
+  {
+    "title": "Workshop: Painting in Virtual Reality (Registration opens October 1st)",
+    "startsAt": "2026-10-15T17:00:00",
+    "endsAt": "2026-10-15T19:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Workshop: Painting in Virtual Reality\r\nThursday, October 15, 5:00pm - 7:00pm \r\nBabson Commons 101 \r\nFREE. Registration opens October 1.\r\nOpen to Babson, Olin, Wellesley students, faculty and staff ONLY\r\n\r\nPut on a VR headset and paint in a way you've never painted before. Creating in a three-dimensi",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376428"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-10-20T12:15:00",
+    "endsAt": "2026-10-20T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376510"
+  },
+  {
+    "title": "Culture Fest",
+    "startsAt": "2026-10-20T18:00:00",
+    "endsAt": "2026-10-20T19:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Office of Belonging and Inclusion",
+    "description": "CultureFest is a student-centered celebration of the cultures, traditions, stories, and communities that make up Babson. Through student performances, interactive cultural tables, creative activities, storytelling, and food from regions around the world, CultureFest will invite members of the Babson",
+    "categories": [],
+    "tags": [
+      "cultural"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BELONG/rsvp?id=376466"
+  },
+  {
+    "title": "J.P. Morgan Private Bank Information Session",
+    "startsAt": "2026-10-21T16:30:00",
+    "endsAt": "2026-10-21T17:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "J.P. Morgan Private Bank MBA Summer Associate Information Session. This session is open to One-Year MBA '27 who have permanent work authorization.\r\n\r\nJoin us for an information session with Bankers from our Boston team to learn more a career in Asset & Wealth Management at the J.P. Morgan Private Ba",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "presentation"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376293"
+  },
+  {
+    "title": "TEST Presents: Melancholy Play",
+    "startsAt": "2026-10-21T19:00:00",
+    "endsAt": "2026-10-24T21:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "The Empty Space Theatre Presents \r\nMelancholy Play \r\nA Play By Sarah Ruhl \r\nDirected by Beth Wynstra\r\nOctober 21, 22, 23 at 7:00pm\r\nOctober 23 and 24 at 2:00pm \r\nSandra L. Sorenson Rehearsal Studio \r\nTickets $5.00 \r\n\r\nMelancholy Play is Sarah Ruhl\u2019s whimsical and inventive comedy about a woman whose",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376431"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-10-27T12:15:00",
+    "endsAt": "2026-10-27T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376511"
+  },
+  {
+    "title": "Pitch Deck Workshop",
+    "startsAt": "2026-10-27T18:30:00",
+    "endsAt": "2026-10-27T19:30:00",
+    "location": "Online Event",
+    "organization": "Babson Miami",
+    "description": "Your pitch alone isn't enough. Join the Blank Center for a hands-on workshop on building a pitch deck that people actually remember, led by Alexandra Dunk.\r\n\r\nYou will work through what belongs on each slide and in what order, how to make the story carry from problem to solution to traction, and wha",
+    "categories": [
+      "Blank Center",
+      "Miami BL MBA"
+    ],
+    "tags": [
+      "blank center",
+      "miami bl mba",
+      "online webinar"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/MIA/rsvp?id=376420"
+  },
+  {
+    "title": "Babson Trading Competition",
+    "startsAt": "2026-10-28T17:00:00",
+    "endsAt": "2026-10-28T21:30:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Stephen D. Cutler Center for Investments and Finance",
+    "description": "The 16th annual Babson Trading Competition welcomes students to compete against one another using the Rotman Interactive Trader software, which simulates an order-driven market. \r\n\r\n\r\nThis competition is open to undergraduate and graduate students at Babson College, Olin College, and Wellesley Colle",
+    "categories": [
+      "Finance"
+    ],
+    "tags": [
+      "finance",
+      "investing",
+      "banking",
+      "competition"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/CUTLER/rsvp?id=376452"
+  },
+  {
+    "title": "AI: Your Job Search Intern",
+    "startsAt": "2026-11-02T12:15:00",
+    "endsAt": "2026-11-02T13:00:00",
+    "location": "Online Event",
+    "organization": "Graduate Center for Career Development",
+    "description": "What if you could have an AI intern working alongside you throughout your job search? In this hands-on session, discover how to use AI as your personal job search sidekick\u2014from identifying opportunities and tailoring resumes to researching employers, preparing for interviews, and refining your netwo",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376463"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-11-03T12:15:00",
+    "endsAt": "2026-11-03T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376512"
+  },
+  {
+    "title": "The Imprint of Objects: Artist Talk & Reception",
+    "startsAt": "2026-11-05T17:00:00",
+    "endsAt": "2026-11-05T19:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Exhibit on View: November 5- December 18, M-F, 9:00am-5:00pm\r\nThe Imprint of Objects \r\nArtwork by Mosh Studio, BabsonARTS Fall 2026 Artists-In-Residence\r\nArtist Talk and Opening Reception: Thursday, November 5, 5:00pm \r\nHollister Gallery\r\nFREE and open to the public. Registration encouraged. Walk-in",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376425"
+  },
+  {
+    "title": "Close the Deal: Mastering Job Offer Negotiation",
+    "startsAt": "2026-11-09T12:00:00",
+    "endsAt": "2026-11-09T13:00:00",
+    "location": "Online Event",
+    "organization": "Graduate Center for Career Development",
+    "description": "You got the offer, now it\u2019s time to make it count. Learn how to confidently navigate salary, benefits, flexibility, title, and other key components of a job offer without leaving value on the table. This practical discussion based session will give you the tools, strategies, and language to negotiat",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376464"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-11-10T12:15:00",
+    "endsAt": "2026-11-10T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376513"
+  },
+  {
+    "title": "Waterline Reading Series Showcase Fall 2026",
+    "startsAt": "2026-11-10T17:00:00",
+    "endsAt": "2026-11-10T19:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Waterline Reading Series Showcase \r\nTuesday, November 10, 5:00pm \r\nHollister Gallery \r\nFREE and open to the public. Registration encouraged. Walk-ins welcome. \r\n\r\nWaterline features a fast-paced hour of literary works from Babson College faculty and staff fiction writers, poets, and essayists. The s",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376432"
+  },
+  {
+    "title": "Workshop: Future Artifacts: 3D Sculpture (Registration opens October 29th)",
+    "startsAt": "2026-11-12T17:00:00",
+    "endsAt": "2026-11-12T19:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Future Artifact: 3D Sculpture Workshop \r\nThursday, November 12, 5:00pm - 7:00pm \r\nWeissman Foundry Workroom \r\nFREE. Registration opens October 29.\r\nOpen to Babson, Olin, Wellesley students, faculty and staff ONLY \r\n\r\nJoin artist duo Suzanne Moseley & Adrienne Shishko (MOSH) for a hands-on workshop e",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376427"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-11-17T12:15:00",
+    "endsAt": "2026-11-17T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376514"
+  },
+  {
+    "title": "Babson Music Collective Concert, Fall 2026",
+    "startsAt": "2026-11-17T19:00:00",
+    "endsAt": "2026-11-17T21:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Babson Music Collective Concert \r\nTuesday, November 17, 7:00pm \r\nCarling-Sorenson Theatre \r\nFREE and open to the public.  Registration encouraged. Walk-ins welcome. \r\n\r\nThe Babson Music Collective is rooted in the jazz traditions of improvisation and creative expression. The group finds inspiration ",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376314"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-11-24T12:15:00",
+    "endsAt": "2026-11-24T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376515"
+  },
+  {
+    "title": "Control What You Can: Navigating Rejection in the Internship & Job Search",
+    "startsAt": "2026-12-01T12:00:00",
+    "endsAt": "2026-12-01T13:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Center for Career Development",
+    "description": "Rejection and setbacks are an inevitable part of the job search, but they don\u2019t have to derail your momentum. While you can\u2019t control every hiring decision, employer response, or outcome, you can control how you prepare, respond, learn, and move forward.\r\n\r\nIn this interactive workshop, students wil",
+    "categories": [
+      "Career"
+    ],
+    "tags": [
+      "networking",
+      "career",
+      "internship",
+      "recruiting",
+      "ccd event"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/GCCD/rsvp?id=376465"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-12-01T12:15:00",
+    "endsAt": "2026-12-01T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376516"
+  },
+  {
+    "title": "Creative Conversation: 1+1=3: The Business of Creative Collaboration with MOSH Studio",
+    "startsAt": "2026-12-02T17:00:00",
+    "endsAt": "2026-12-02T19:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Creative Conversation: \r\n1+1=3: The Business of Creative Collaboration \r\nwith MOSH Studio, BabsonARTS Fall 2026 Artists-in-Residence\r\nWednesday, December 2, 5:00pm\r\nHollister Gallery\r\nFREE and open to the public.  Registration encouraged. Walk-ins welcome. \r\n\r\nHow does true collaboration expand crea",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376426"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-12-08T12:15:00",
+    "endsAt": "2026-12-08T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376517"
+  },
+  {
+    "title": "Prints and Pints: Gelli Plate Printing (Registration opens November 12th)",
+    "startsAt": "2026-12-10T17:00:00",
+    "endsAt": "2026-12-10T19:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "BabsonARTS",
+    "description": "Prints & Pints: Gelli-Plate Printing \r\n(Grad Students Only) \r\nThursday, December 10, 5:00pm-7:00pm\r\nOlin Hall Design Zone 125\r\nFREE. Registration opens November 12\r\n\r\nPull up a stool and pull some prints! Join us for an evening of gelli-plate mono-printing, a surprisingly addictive process where no ",
+    "categories": [
+      "BabsonARTS"
+    ],
+    "tags": [
+      "babsonarts",
+      "cultural"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/ARTS/rsvp?id=376423"
+  },
+  {
+    "title": "Weekly Babson Christian Fellowship Meeting",
+    "startsAt": "2026-12-15T12:15:00",
+    "endsAt": "2026-12-15T13:15:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Graduate Christian Fellowship",
+    "description": "Welcome to Babson Christian Fellowship! I'm excited to grow our faith together this year.\r\n\r\nWe will be meeting on Tuesdays over lunch at Trim Dining Hall from 12:15 - 1:15 pm.\r\n\r\nWe will be planning to encourage one another, pray together, and talk about concrete ways we can honor Christ in the wor",
+    "categories": [
+      "Faith",
+      "Christian",
+      "In-Person"
+    ],
+    "tags": [
+      "in-person",
+      "christian",
+      "faith",
+      "spiritual"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/BGCF/rsvp?id=376518"
+  },
+  {
+    "title": "Pitching Workshop",
+    "startsAt": "2027-01-07T18:30:00",
+    "endsAt": "2027-01-07T19:30:00",
+    "location": "Online Event",
+    "organization": "Babson Miami",
+    "description": "Most audiences decide whether to lean in during the first twenty seconds. Join the Blank Center for a workshop on how to pitch your venture, led by Alexandra Dunk.\r\n\r\nThe session covers how to open, how to structure the story so it holds through the middle, and how delivery changes what lands. You w",
+    "categories": [
+      "Miami BL MBA",
+      "Blank Center"
+    ],
+    "tags": [
+      "miami bl mba",
+      "blank center",
+      "online webinar"
+    ],
+    "freeFood": false,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/MIA/rsvp?id=376421"
+  },
+  {
+    "title": "Babson Miami Pitch Night",
+    "startsAt": "2027-01-28T18:00:00",
+    "endsAt": "2027-01-28T20:00:00",
+    "location": "Private Location (sign in to display)",
+    "organization": "Babson Miami",
+    "description": "Watch entrepreneurs take the stage and pitch their ventures live at Babson College Miami, hosted with the Arthur M. Blank Center for Entrepreneurship. The evening includes live pitches, networking, and food.\r\n\r\nFounders present what they are building and take questions from the room. Whether you are",
+    "categories": [
+      "Blank Center",
+      "Miami BL MBA"
+    ],
+    "tags": [
+      "blank center",
+      "miami bl mba",
+      "networking"
+    ],
+    "freeFood": true,
+    "source": "engage",
+    "eventLink": "https://engage.babson.edu/MIA/rsvp?id=376422"
   }
 ]
